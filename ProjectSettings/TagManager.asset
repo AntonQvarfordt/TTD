@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PostProcessing
+  - StaticEnvironment
+  - DynamicObject
+  - Player
+  - Floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2683182573
+    locked: 0
+  - name: EnvironmentStatic
+    uniqueID: 5134637
+    locked: 0
+  - name: EnvironmentDynamic
+    uniqueID: 2940582927
+    locked: 0
+  - name: Dynamic
+    uniqueID: 4260205449
+    locked: 0
+  - name: Foreground
+    uniqueID: 4290187613
+    locked: 0
