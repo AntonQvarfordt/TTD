@@ -16,8 +16,8 @@ TagManager:
   - DynamicObject
   - Player
   - Floor
-  - 
-  - 
+  - Door
+  - Actor
   - 
   - 
   - 
