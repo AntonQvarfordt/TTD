@@ -12,7 +12,7 @@ public class InputHandler : MonoBehaviour
     public TextMeshProUGUI textMeshProUGUI_1;
     public TextMeshProUGUI textMeshProUGUI_2;
     public TextMeshProUGUI textMeshProUGUI_3;
-    public TextMeshProUGUI textMeshProUGUI_3;
+    public TextMeshProUGUI textMeshProUGUI_4;
 
 
     public InputAction LeftDown;
