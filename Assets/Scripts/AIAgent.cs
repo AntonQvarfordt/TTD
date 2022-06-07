@@ -2,24 +2,47 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Sirenix.OdinInspector;
+using Pathfinding;
 
-//[RequireComponent(typeof(AIPath))]
-public class AIAgent : Actor
+
+public enum AIState
 {
-    public Transform DestinationDebug;
+    State1, 
+    State2,
+    State3
+}
+
+[RequireComponent(typeof(AIPath))]
+public class AIAgent : Actor, IDamagable
+{
+    public Transform DestinationTransform;
+    private AIPath _pathScript;
+
+    public float health { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
+
     private void Awake()
     {
-        //_pathScript = GetComponent<AIPath>(); 
+        _pathScript = GetComponent<AIPath>(); 
     }
 
     [Button]
     private void SetDestination (Vector2 position)
     {
-        //_pathScript.destination = DestinationDebug.position;
+        _pathScript.destination = DestinationTransform.position;
     }
 
     public void SetMoveSpeed (float speed)
     {
 
+    }
+
+    public void Initialize()
+    {
+        throw new System.NotImplementedException();
+    }
+
+    public void ApplyDamage(float points)
+    {
+        throw new System.NotImplementedException();
     }
 }

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c0b7b704b402e740a00c4fcc7713cc0, type: 3}
+  m_Name: AIOne
+  m_EditorClassIdentifier: 
+  Name: AIOne
+  Prefab: {fileID: 5875940519309143326, guid: 1bcabc04954871f4aa21ad8b75150512, type: 3}
