@@ -135,8 +135,6 @@ struct StaticFunctionInvoker_2_tB095A9097729C3BAE58B36CB53EA524B01707124;
 struct StaticFunctionInvoker_2_t968390765E954E5A69F757C0A02C0D4BDECAF48B;
 // Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.LayerMask,System.Int32>
 struct StaticFunctionInvoker_2_t0779B28D55498FB5DB1EBFF71856765396D6C7A3;
-// Unity.VisualScripting.StaticFunctionInvoker`2<System.Object,System.Boolean>
-struct StaticFunctionInvoker_2_t09112002343D75D8205AEEE6E249E89C2B0A4148;
 // Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Object,System.Boolean>
 struct StaticFunctionInvoker_2_tB0037C75DC128BB46023A63D75D3D946527C4F75;
 // Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.RaycastHit2D,System.Boolean>
@@ -159,6 +157,8 @@ struct StaticFunctionInvoker_2_t00DCF996557218A46AF26DFF69EC5E9E7DA11954;
 struct StaticFunctionInvoker_2_t8F78B5C6EB5CA0127B2BEE3E8D87BEBC69353D57;
 // Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector4,UnityEngine.Vector4>
 struct StaticFunctionInvoker_2_t1F36D65F36C5BFF16E62C9E1203436AC865F043C;
+// Unity.VisualScripting.StaticFunctionInvoker`2<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>
+struct StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8;
 // Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Bounds,UnityEngine.Bounds,System.Boolean>
 struct StaticFunctionInvoker_3_t7368496494B8BE01C4B08B9891B613906AA111E2;
 // Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Color,UnityEngine.Color,System.Boolean>
@@ -173,8 +173,6 @@ struct StaticFunctionInvoker_3_t91C9754075B523ABA089D1B211C1C528A3513988;
 struct StaticFunctionInvoker_3_tC24366421FDC1A1194A7C6B4990D293A942AECC8;
 // Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Matrix4x4,UnityEngine.Vector4,UnityEngine.Vector4>
 struct StaticFunctionInvoker_3_t3CEC187610555C563BB0C9496A75C9126574E3C0;
-// Unity.VisualScripting.StaticFunctionInvoker`3<System.Object,System.Object,System.Boolean>
-struct StaticFunctionInvoker_3_tC3657FF81005771237D33952E52F8D85E8E90AEF;
 // Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Object,UnityEngine.Object,System.Boolean>
 struct StaticFunctionInvoker_3_t66B4891BE6B11D38C90DB74B008E4FC2BA112D1D;
 // Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Quaternion,UnityEngine.Quaternion,System.Boolean>
@@ -217,6 +215,8 @@ struct StaticFunctionInvoker_3_t42FBD76F491C70019BCE97A99FDF0478C101F625;
 struct StaticFunctionInvoker_3_tC118F4A2139AE10831743519EF1EEB05A10ED993;
 // Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector4,UnityEngine.Vector4,UnityEngine.Vector4>
 struct StaticFunctionInvoker_3_t371273EBED66F18553D52FB313C6CD6CB4FAE8A1;
+// Unity.VisualScripting.StaticFunctionInvoker`3<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>
+struct StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F;
 // Unity.VisualScripting.Generated.Aot.AotStubs
 struct AotStubs_tF4D97888740106FD944A82DA2810D80DBBD915B8;
 // System.Reflection.MethodInfo
@@ -1041,116 +1041,38 @@ struct StaticFunctionInvoker_3_t371273EBED66F18553D52FB313C6CD6CB4FAE8A1  : publ
 #endif
 
 
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<System.Object,System.Object,System.Boolean>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_mD2A414C6CC5D80DF75BF1240A5F3772F2ACE6B8A_gshared (StaticFunctionInvoker_3_tC3657FF81005771237D33952E52F8D85E8E90AEF* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<System.Single,System.Single,System.Boolean>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_mA878925388349458C0713E3FB2F88BC3B799557F_gshared (StaticFunctionInvoker_3_t508365F9CCE8D57EC73E3C858D2D1613FD3AC3AE* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`2<System.Object,System.Boolean>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_2__ctor_m7C2783C0D7ADB8A1B4DE4457F7D9D5EF492330C5_gshared (StaticFunctionInvoker_2_t09112002343D75D8205AEEE6E249E89C2B0A4148* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Bounds,UnityEngine.Bounds,System.Boolean>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m530E8368227F2D07DF009064465A0CA2E71448EF_gshared (StaticFunctionInvoker_3_t7368496494B8BE01C4B08B9891B613906AA111E2* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Rect,UnityEngine.Rect,System.Boolean>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m3EA96FDB6ED334F2E0C6632C05C96189B1BD4C30_gshared (StaticFunctionInvoker_3_t5E1B0CC5EA6EB5371BA384217A16F7D0B4F3B00D* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Color,UnityEngine.Color,UnityEngine.Color>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m780BF375301BECC5E83953EF28620F9DEE106071_gshared (StaticFunctionInvoker_3_t13651534BD60CD2EF39BF5E74D5B72694B680FE0* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Color,System.Single,UnityEngine.Color>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m8AF617832D3F2E8DB98A4E6E073A246A4FB7845D_gshared (StaticFunctionInvoker_3_tFE59F2BE1C1EE1D6A85D5E54B51DB0F37E9384DB* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<System.Single,UnityEngine.Color,UnityEngine.Color>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_mEFD4456F27FB9B2BF62D16E40D6D68F1B85424D4_gshared (StaticFunctionInvoker_3_t248D9F7B7548ECCD0461A0F9853F8191A04929E9* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Color,UnityEngine.Color,System.Boolean>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m25BDAD86606798FDA8C86A6CBB5115CE503E9F66_gshared (StaticFunctionInvoker_3_tEE1CE1CE7FB281124AC92DFB4326BF1ECE4F7D2D* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Color,UnityEngine.Vector4>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_2__ctor_m277DF82203B3B9E5EA09492A05191F0510F80C68_gshared (StaticFunctionInvoker_2_tB095A9097729C3BAE58B36CB53EA524B01707124* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector4,UnityEngine.Color>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_2__ctor_m83AE1B82991FAFC67DF6BD7990A0D0914C487932_gshared (StaticFunctionInvoker_2_t00DCF996557218A46AF26DFF69EC5E9E7DA11954* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,UnityEngine.Matrix4x4>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m32931C656714F7427ACC83857584D22C953F3435_gshared (StaticFunctionInvoker_3_tC24366421FDC1A1194A7C6B4990D293A942AECC8* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Matrix4x4,UnityEngine.Vector4,UnityEngine.Vector4>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_mD8496C86F9FB2139EEC3F49B3EB1CD258BCBC94C_gshared (StaticFunctionInvoker_3_t3CEC187610555C563BB0C9496A75C9126574E3C0* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,System.Boolean>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m0C66C51184F20C78CF06C0A0CB28AF2F32ACE139_gshared (StaticFunctionInvoker_3_t91C9754075B523ABA089D1B211C1C528A3513988* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.Vector3>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m29F086576BE2ADD375B5EC5E45B20B994932AC4C_gshared (StaticFunctionInvoker_3_tDFCCDC9F1409304C6B66CECDB93402A508B26DBA* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector3,UnityEngine.Vector3>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_2__ctor_mB5D2EA93D3D5D0DC2D02D4C9A653334706F0504E_gshared (StaticFunctionInvoker_2_t0785C4B7A7288E4BFF931913FCE4A9F6DE6E5637* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector3,System.Single,UnityEngine.Vector3>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m76DD94A1C6B3753D7C4099CA10DDFEA0D17CE290_gshared (StaticFunctionInvoker_3_t1F506654CDADDD69D1ABD4DBA85506CE0B1FD435* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<System.Single,UnityEngine.Vector3,UnityEngine.Vector3>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m0F381519D8F024E32EEAC99541D122A2B21F1808_gshared (StaticFunctionInvoker_3_t1D92454C8089A793F9A4BADED12E9314FEE5659C* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector3,UnityEngine.Vector3,System.Boolean>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_mF5D7DC70F0E70AA285452AEEE134DCE4927E49DA_gshared (StaticFunctionInvoker_3_t7BB69B32FA788D2B25967ADDCCBBBC2B1FD9D4FD* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Quaternion,UnityEngine.Quaternion,UnityEngine.Quaternion>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m940285B97A45DD4C2FDED9253D4BF7114EECCB8C_gshared (StaticFunctionInvoker_3_t3E443D4F47AED1EA93025783DFB9B9FF6F5EF9D1* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Quaternion,UnityEngine.Vector3,UnityEngine.Vector3>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_mF94BD867586A36A12ABEFB2274376F29170B8725_gshared (StaticFunctionInvoker_3_tC3204A21A76F815EDCB7DE1BBA09DFEB2605B8D9* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Quaternion,UnityEngine.Quaternion,System.Boolean>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m44F40DA473AF116315A5E528210444890803F269_gshared (StaticFunctionInvoker_3_t904E54F97EEE57D5B7C96B492207FF715472BFF5* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector2,UnityEngine.Vector2,UnityEngine.Vector2>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m18094291E42490789B67FB8C46938FCD6FE3C7A9_gshared (StaticFunctionInvoker_3_tD834689AD4F65503F63DDAB1E09B82F5495AEC67* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector2,UnityEngine.Vector2>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_2__ctor_m654B0707F35E4BD8CA43A8A73662170ADDDF48AB_gshared (StaticFunctionInvoker_2_t0D60CA7B98C5772E482D5E4069B17F365A92C5AC* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector2,System.Single,UnityEngine.Vector2>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m99200F986217D1DD06A81060D6CC43B7200BBF4C_gshared (StaticFunctionInvoker_3_tB16A4616A2FB4FF425B1867D2740C76AC60B4B4F* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<System.Single,UnityEngine.Vector2,UnityEngine.Vector2>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_mE697DA66F884B6DC5C1EEAFC09CEEDC6432901AE_gshared (StaticFunctionInvoker_3_t382E1BCA792069657B5FEA38B3CFCDB7619E8921* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector2,UnityEngine.Vector2,System.Boolean>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m10C566E957417160B5137DACC1707D0411F40437_gshared (StaticFunctionInvoker_3_t5A9C1D6B6DBD5CE7BDE91CED1678F33EC681E7F2* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector3,UnityEngine.Vector2>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_2__ctor_m897119CCA49787633CDE89FDEDFA6A2A2FF237F7_gshared (StaticFunctionInvoker_2_t52C289CF660B2FB458083EBE37934C670B32C937* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector2,UnityEngine.Vector3>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_2__ctor_mA358D72F36EFEBDBC4EBCB24B87ACB24290F35AE_gshared (StaticFunctionInvoker_2_t331424866CFADD4793288257D17586D58B674370* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector4,UnityEngine.Vector4,UnityEngine.Vector4>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m4F6AE20F151F7482EDE70A6458D5298846ED4276_gshared (StaticFunctionInvoker_3_t371273EBED66F18553D52FB313C6CD6CB4FAE8A1* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector4,UnityEngine.Vector4>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_2__ctor_m21B946FBA35597B95D0DA4065594132F85EB8B75_gshared (StaticFunctionInvoker_2_t1F36D65F36C5BFF16E62C9E1203436AC865F043C* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector4,System.Single,UnityEngine.Vector4>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_mDB0E368176AC0F74981F68B9BADE0BA88B68ACE8_gshared (StaticFunctionInvoker_3_t42FBD76F491C70019BCE97A99FDF0478C101F625* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<System.Single,UnityEngine.Vector4,UnityEngine.Vector4>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m7A305D3EB9E4D1C4608EB83C95917A72A351C4F7_gshared (StaticFunctionInvoker_3_tD5A0F4A81BEE446A465F6128FC2E178F6228A144* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector4,UnityEngine.Vector4,System.Boolean>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_m65C19CFE1236B690B5F32CA8623DE357AF0B1996_gshared (StaticFunctionInvoker_3_tC118F4A2139AE10831743519EF1EEB05A10ED993* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector3,UnityEngine.Vector4>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_2__ctor_m3CF6BCFB63AF3FFC75B6ED77244BA1AC3E40591B_gshared (StaticFunctionInvoker_2_t0302491B45330A1A54A2CCE1277C785DF77C328E* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector4,UnityEngine.Vector3>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_2__ctor_mC78899B069E7532DBD5342A03876CC89B5CD1BE7_gshared (StaticFunctionInvoker_2_t8F78B5C6EB5CA0127B2BEE3E8D87BEBC69353D57* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector2,UnityEngine.Vector4>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_2__ctor_mD5E87FD4516CD0725EA5C6433D77A84B2E5236D7_gshared (StaticFunctionInvoker_2_t8C3FE5325A9982A7AB28DA26E20F0164B7D1391B* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.LayerMask,System.Int32>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_2__ctor_m64F699667F0D1E5FA11C616D6CFCE170D76A3343_gshared (StaticFunctionInvoker_2_t0779B28D55498FB5DB1EBFF71856765396D6C7A3* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`2<System.Int32,UnityEngine.LayerMask>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_2__ctor_m1C45147722AEA13B00A0DCA8977277AE365DD0BF_gshared (StaticFunctionInvoker_2_t968390765E954E5A69F757C0A02C0D4BDECAF48B* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.Scene,System.Boolean>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_mCCAED0553F64BA48BE6D7518FD3389B6A065DE83_gshared (StaticFunctionInvoker_3_tD1A08BA07E57C8F1E9D8F9DC8CB2C16A7E71DD3B* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
-// System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.RaycastHit2D,System.Boolean>::.ctor(System.Reflection.MethodInfo)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_2__ctor_mA3962E648B832CD4DE39F5FAEC7C24BB2489DF2F_gshared (StaticFunctionInvoker_2_t2293A8C7AE8421E383453D4B9162503A0C479DE5* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
+// System.Void Unity.VisualScripting.StaticFunctionInvoker`3<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::.ctor(System.Reflection.MethodInfo)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
+// System.Void Unity.VisualScripting.StaticFunctionInvoker`2<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::.ctor(System.Reflection.MethodInfo)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void StaticFunctionInvoker_2__ctor_m83151B937C598CE532F687BFAE60AB15E5DEDDF4_gshared (StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method) ;
 
 // System.Boolean System.String::op_Equality(System.String,System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool String_op_Equality_m0D685A924E5CD78078F248ED1726DA5A9D7D6AC0 (String_t* ___a0, String_t* ___b1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<System.String,System.String,System.Boolean>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m34F713ECC66E6789C2CBA80BC30BD521EEACCF54 (StaticFunctionInvoker_3_t3B0D515D9D47C0FA34C474072907D9ACC49A016E* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t3B0D515D9D47C0FA34C474072907D9ACC49A016E*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mD2A414C6CC5D80DF75BF1240A5F3772F2ACE6B8A_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // System.Boolean System.String::op_Inequality(System.String,System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool String_op_Inequality_m0FBE5AC4931D312E5B347BAA603755676E6DA2FE (String_t* ___a0, String_t* ___b1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<System.Single,System.Single,System.Boolean>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_mA878925388349458C0713E3FB2F88BC3B799557F (StaticFunctionInvoker_3_t508365F9CCE8D57EC73E3C858D2D1613FD3AC3AE* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t508365F9CCE8D57EC73E3C858D2D1613FD3AC3AE*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mA878925388349458C0713E3FB2F88BC3B799557F_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // System.Boolean UnityEngine.Object::op_Implicit(UnityEngine.Object)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Implicit_m18E1885C296CC868AC918101523697CFE6413C79 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___exists0, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Object,System.Boolean>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_2__ctor_m4CDB31460E5A5BB11EB6135DABDC361799595091 (StaticFunctionInvoker_2_tB0037C75DC128BB46023A63D75D3D946527C4F75* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_2_tB0037C75DC128BB46023A63D75D3D946527C4F75*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m7C2783C0D7ADB8A1B4DE4457F7D9D5EF492330C5_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m83151B937C598CE532F687BFAE60AB15E5DEDDF4_gshared)((StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*)__this, ___methodInfo0, method);
 }
 // System.Boolean UnityEngine.Object::op_Equality(UnityEngine.Object,UnityEngine.Object)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Equality_mD3DB0D72CE0250C84033DC2A90AEF9D59896E536 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___x0, Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___y1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Object,UnityEngine.Object,System.Boolean>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m6ECE0899F63C38E54C67BE22307570E484786E21 (StaticFunctionInvoker_3_t66B4891BE6B11D38C90DB74B008E4FC2BA112D1D* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t66B4891BE6B11D38C90DB74B008E4FC2BA112D1D*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mD2A414C6CC5D80DF75BF1240A5F3772F2ACE6B8A_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // System.Boolean UnityEngine.Object::op_Inequality(UnityEngine.Object,UnityEngine.Object)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Inequality_m4D656395C27694A7F33F5AA8DE80A7AAF9E20BA7 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___x0, Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___y1, const RuntimeMethod* method) ;
@@ -1159,7 +1081,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Bounds_op_Equality_m8DFE70F630E5BB54FC9E
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Bounds,UnityEngine.Bounds,System.Boolean>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m530E8368227F2D07DF009064465A0CA2E71448EF (StaticFunctionInvoker_3_t7368496494B8BE01C4B08B9891B613906AA111E2* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t7368496494B8BE01C4B08B9891B613906AA111E2*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m530E8368227F2D07DF009064465A0CA2E71448EF_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // System.Boolean UnityEngine.Bounds::op_Inequality(UnityEngine.Bounds,UnityEngine.Bounds)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Bounds_op_Inequality_mCA10789889154806602C77822FA041863EBE4147 (Bounds_t367E830C64BBF235ED8C3B2F8CF6254FDCAD39C3 ___lhs0, Bounds_t367E830C64BBF235ED8C3B2F8CF6254FDCAD39C3 ___rhs1, const RuntimeMethod* method) ;
@@ -1168,7 +1090,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Rect_op_Inequality_m4698BE8DFFC2C4F79B03
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Rect,UnityEngine.Rect,System.Boolean>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m3EA96FDB6ED334F2E0C6632C05C96189B1BD4C30 (StaticFunctionInvoker_3_t5E1B0CC5EA6EB5371BA384217A16F7D0B4F3B00D* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t5E1B0CC5EA6EB5371BA384217A16F7D0B4F3B00D*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m3EA96FDB6ED334F2E0C6632C05C96189B1BD4C30_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // System.Boolean UnityEngine.Rect::op_Equality(UnityEngine.Rect,UnityEngine.Rect)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Rect_op_Equality_m3592AA7AF3B2C809AAB02110B166B9A6F9263AD8 (Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D ___lhs0, Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D ___rhs1, const RuntimeMethod* method) ;
@@ -1177,7 +1099,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED02
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Color,UnityEngine.Color,UnityEngine.Color>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m780BF375301BECC5E83953EF28620F9DEE106071 (StaticFunctionInvoker_3_t13651534BD60CD2EF39BF5E74D5B72694B680FE0* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t13651534BD60CD2EF39BF5E74D5B72694B680FE0*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m780BF375301BECC5E83953EF28620F9DEE106071_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Color UnityEngine.Color::op_Subtraction(UnityEngine.Color,UnityEngine.Color)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_op_Subtraction_m8B74651BCFF62DCA8A3DC1CDFEF4577418CDC07D_inline (Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___a0, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___b1, const RuntimeMethod* method) ;
@@ -1188,14 +1110,14 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED02
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Color,System.Single,UnityEngine.Color>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m8AF617832D3F2E8DB98A4E6E073A246A4FB7845D (StaticFunctionInvoker_3_tFE59F2BE1C1EE1D6A85D5E54B51DB0F37E9384DB* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_tFE59F2BE1C1EE1D6A85D5E54B51DB0F37E9384DB*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m8AF617832D3F2E8DB98A4E6E073A246A4FB7845D_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Color UnityEngine.Color::op_Multiply(System.Single,UnityEngine.Color)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_op_Multiply_m1ED56CA313E9D35FD4324AADD8495ADFC041294A_inline (float ___b0, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___a1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<System.Single,UnityEngine.Color,UnityEngine.Color>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_mEFD4456F27FB9B2BF62D16E40D6D68F1B85424D4 (StaticFunctionInvoker_3_t248D9F7B7548ECCD0461A0F9853F8191A04929E9* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t248D9F7B7548ECCD0461A0F9853F8191A04929E9*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mEFD4456F27FB9B2BF62D16E40D6D68F1B85424D4_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Color UnityEngine.Color::op_Division(UnityEngine.Color,System.Single)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_op_Division_m1C9D39C3D4B9AC3343E08D0ED4DD64E33D40A5FF_inline (Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___a0, float ___b1, const RuntimeMethod* method) ;
@@ -1204,7 +1126,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Color_op_Equality_m3A255F888
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Color,UnityEngine.Color,System.Boolean>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m25BDAD86606798FDA8C86A6CBB5115CE503E9F66 (StaticFunctionInvoker_3_tEE1CE1CE7FB281124AC92DFB4326BF1ECE4F7D2D* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_tEE1CE1CE7FB281124AC92DFB4326BF1ECE4F7D2D*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m25BDAD86606798FDA8C86A6CBB5115CE503E9F66_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // System.Boolean UnityEngine.Color::op_Inequality(UnityEngine.Color,UnityEngine.Color)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Color_op_Inequality_m4A31CEDC6B46367D219D0358AC94F5F66C3849CA_inline (Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___lhs0, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___rhs1, const RuntimeMethod* method) ;
@@ -1213,35 +1135,35 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector4_t58B63D32F48C0DBF50DE2C60
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Color,UnityEngine.Vector4>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_2__ctor_m277DF82203B3B9E5EA09492A05191F0510F80C68 (StaticFunctionInvoker_2_tB095A9097729C3BAE58B36CB53EA524B01707124* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_2_tB095A9097729C3BAE58B36CB53EA524B01707124*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m277DF82203B3B9E5EA09492A05191F0510F80C68_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m83151B937C598CE532F687BFAE60AB15E5DEDDF4_gshared)((StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Color UnityEngine.Color::op_Implicit(UnityEngine.Vector4)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Color_op_Implicit_m04FFC6EBCB0576CD59529546F8FA10F4F71E9005_inline (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___v0, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector4,UnityEngine.Color>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_2__ctor_m83AE1B82991FAFC67DF6BD7990A0D0914C487932 (StaticFunctionInvoker_2_t00DCF996557218A46AF26DFF69EC5E9E7DA11954* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_2_t00DCF996557218A46AF26DFF69EC5E9E7DA11954*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m83AE1B82991FAFC67DF6BD7990A0D0914C487932_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m83151B937C598CE532F687BFAE60AB15E5DEDDF4_gshared)((StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Matrix4x4 UnityEngine.Matrix4x4::op_Multiply(UnityEngine.Matrix4x4,UnityEngine.Matrix4x4)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 Matrix4x4_op_Multiply_m7649669D493400913FF60AFB04B1C19F14E0FDB0 (Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___lhs0, Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___rhs1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,UnityEngine.Matrix4x4>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m32931C656714F7427ACC83857584D22C953F3435 (StaticFunctionInvoker_3_tC24366421FDC1A1194A7C6B4990D293A942AECC8* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_tC24366421FDC1A1194A7C6B4990D293A942AECC8*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m32931C656714F7427ACC83857584D22C953F3435_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector4 UnityEngine.Matrix4x4::op_Multiply(UnityEngine.Matrix4x4,UnityEngine.Vector4)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 Matrix4x4_op_Multiply_m2041E25F0453B831D95C32E924B88125ACFE9255 (Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___lhs0, Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___vector1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Matrix4x4,UnityEngine.Vector4,UnityEngine.Vector4>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_mD8496C86F9FB2139EEC3F49B3EB1CD258BCBC94C (StaticFunctionInvoker_3_t3CEC187610555C563BB0C9496A75C9126574E3C0* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t3CEC187610555C563BB0C9496A75C9126574E3C0*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mD8496C86F9FB2139EEC3F49B3EB1CD258BCBC94C_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // System.Boolean UnityEngine.Matrix4x4::op_Equality(UnityEngine.Matrix4x4,UnityEngine.Matrix4x4)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Matrix4x4_op_Equality_mB6119C9802D535FE6221A40760472D06D8438B20 (Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___lhs0, Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___rhs1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Matrix4x4,UnityEngine.Matrix4x4,System.Boolean>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m0C66C51184F20C78CF06C0A0CB28AF2F32ACE139 (StaticFunctionInvoker_3_t91C9754075B523ABA089D1B211C1C528A3513988* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t91C9754075B523ABA089D1B211C1C528A3513988*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m0C66C51184F20C78CF06C0A0CB28AF2F32ACE139_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // System.Boolean UnityEngine.Matrix4x4::op_Inequality(UnityEngine.Matrix4x4,UnityEngine.Matrix4x4)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Matrix4x4_op_Inequality_mFBA4DC437A3E4F95A31D42DF4E63C96319A96980_inline (Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___lhs0, Matrix4x4_tDB70CF134A14BA38190C59AA700BCE10E2AED3E6 ___rhs1, const RuntimeMethod* method) ;
@@ -1250,28 +1172,28 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.Vector3>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m29F086576BE2ADD375B5EC5E45B20B994932AC4C (StaticFunctionInvoker_3_tDFCCDC9F1409304C6B66CECDB93402A508B26DBA* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_tDFCCDC9F1409304C6B66CECDB93402A508B26DBA*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m29F086576BE2ADD375B5EC5E45B20B994932AC4C_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector3 UnityEngine.Vector3::op_Subtraction(UnityEngine.Vector3,UnityEngine.Vector3)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Subtraction_m1690F44F6DC92B770A940B6CF8AE0535625A9824_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___a0, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___b1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector3,UnityEngine.Vector3>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_2__ctor_mB5D2EA93D3D5D0DC2D02D4C9A653334706F0504E (StaticFunctionInvoker_2_t0785C4B7A7288E4BFF931913FCE4A9F6DE6E5637* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_2_t0785C4B7A7288E4BFF931913FCE4A9F6DE6E5637*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_mB5D2EA93D3D5D0DC2D02D4C9A653334706F0504E_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m83151B937C598CE532F687BFAE60AB15E5DEDDF4_gshared)((StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector3 UnityEngine.Vector3::op_Multiply(UnityEngine.Vector3,System.Single)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Multiply_m516FE285F5342F922C6EB3FCB33197E9017FF484_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___a0, float ___d1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector3,System.Single,UnityEngine.Vector3>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m76DD94A1C6B3753D7C4099CA10DDFEA0D17CE290 (StaticFunctionInvoker_3_t1F506654CDADDD69D1ABD4DBA85506CE0B1FD435* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t1F506654CDADDD69D1ABD4DBA85506CE0B1FD435*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m76DD94A1C6B3753D7C4099CA10DDFEA0D17CE290_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector3 UnityEngine.Vector3::op_Multiply(System.Single,UnityEngine.Vector3)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Multiply_m29F4414A9D30B7C0CD8455C4B2F049E8CCF66745_inline (float ___d0, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___a1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<System.Single,UnityEngine.Vector3,UnityEngine.Vector3>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m0F381519D8F024E32EEAC99541D122A2B21F1808 (StaticFunctionInvoker_3_t1D92454C8089A793F9A4BADED12E9314FEE5659C* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t1D92454C8089A793F9A4BADED12E9314FEE5659C*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m0F381519D8F024E32EEAC99541D122A2B21F1808_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector3 UnityEngine.Vector3::op_Division(UnityEngine.Vector3,System.Single)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Division_mD7200D6D432BAFC4135C5B17A0B0A812203B0270_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___a0, float ___d1, const RuntimeMethod* method) ;
@@ -1280,7 +1202,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Vector3_op_Equality_m15951D1
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector3,UnityEngine.Vector3,System.Boolean>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_mF5D7DC70F0E70AA285452AEEE134DCE4927E49DA (StaticFunctionInvoker_3_t7BB69B32FA788D2B25967ADDCCBBBC2B1FD9D4FD* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t7BB69B32FA788D2B25967ADDCCBBBC2B1FD9D4FD*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mF5D7DC70F0E70AA285452AEEE134DCE4927E49DA_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // System.Boolean UnityEngine.Vector3::op_Inequality(UnityEngine.Vector3,UnityEngine.Vector3)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Vector3_op_Inequality_m6A7FB1C9E9DE194708997BFA24C6E238D92D908E_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___lhs0, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___rhs1, const RuntimeMethod* method) ;
@@ -1289,21 +1211,21 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Quaternion_tDA59F214EF07D7700B26E
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Quaternion,UnityEngine.Quaternion,UnityEngine.Quaternion>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m940285B97A45DD4C2FDED9253D4BF7114EECCB8C (StaticFunctionInvoker_3_t3E443D4F47AED1EA93025783DFB9B9FF6F5EF9D1* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t3E443D4F47AED1EA93025783DFB9B9FF6F5EF9D1*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m940285B97A45DD4C2FDED9253D4BF7114EECCB8C_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector3 UnityEngine.Quaternion::op_Multiply(UnityEngine.Quaternion,UnityEngine.Vector3)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Quaternion_op_Multiply_mF1348668A6CCD46FBFF98D39182F89358ED74AC0 (Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 ___rotation0, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___point1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Quaternion,UnityEngine.Vector3,UnityEngine.Vector3>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_mF94BD867586A36A12ABEFB2274376F29170B8725 (StaticFunctionInvoker_3_tC3204A21A76F815EDCB7DE1BBA09DFEB2605B8D9* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_tC3204A21A76F815EDCB7DE1BBA09DFEB2605B8D9*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mF94BD867586A36A12ABEFB2274376F29170B8725_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // System.Boolean UnityEngine.Quaternion::op_Equality(UnityEngine.Quaternion,UnityEngine.Quaternion)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Quaternion_op_Equality_m3DF1D708D3A0AFB11EACF42A9C068EF6DC508FBB_inline (Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 ___lhs0, Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 ___rhs1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Quaternion,UnityEngine.Quaternion,System.Boolean>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m44F40DA473AF116315A5E528210444890803F269 (StaticFunctionInvoker_3_t904E54F97EEE57D5B7C96B492207FF715472BFF5* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t904E54F97EEE57D5B7C96B492207FF715472BFF5*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m44F40DA473AF116315A5E528210444890803F269_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // System.Boolean UnityEngine.Quaternion::op_Inequality(UnityEngine.Quaternion,UnityEngine.Quaternion)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Quaternion_op_Inequality_mC1922F160B14F6F404E46FFCC10B282D913BE354_inline (Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 ___lhs0, Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 ___rhs1, const RuntimeMethod* method) ;
@@ -1312,7 +1234,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2D
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector2,UnityEngine.Vector2,UnityEngine.Vector2>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m18094291E42490789B67FB8C46938FCD6FE3C7A9 (StaticFunctionInvoker_3_tD834689AD4F65503F63DDAB1E09B82F5495AEC67* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_tD834689AD4F65503F63DDAB1E09B82F5495AEC67*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m18094291E42490789B67FB8C46938FCD6FE3C7A9_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector2 UnityEngine.Vector2::op_Subtraction(UnityEngine.Vector2,UnityEngine.Vector2)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 Vector2_op_Subtraction_m664419831773D5BBF06D9DE4E515F6409B2F92B8_inline (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___a0, Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___b1, const RuntimeMethod* method) ;
@@ -1323,21 +1245,21 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2D
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector2,UnityEngine.Vector2>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_2__ctor_m654B0707F35E4BD8CA43A8A73662170ADDDF48AB (StaticFunctionInvoker_2_t0D60CA7B98C5772E482D5E4069B17F365A92C5AC* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_2_t0D60CA7B98C5772E482D5E4069B17F365A92C5AC*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m654B0707F35E4BD8CA43A8A73662170ADDDF48AB_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m83151B937C598CE532F687BFAE60AB15E5DEDDF4_gshared)((StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector2 UnityEngine.Vector2::op_Multiply(UnityEngine.Vector2,System.Single)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 Vector2_op_Multiply_m4EEB2FF3F4830390A53CE9B6076FB31801D65EED_inline (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___a0, float ___d1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector2,System.Single,UnityEngine.Vector2>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m99200F986217D1DD06A81060D6CC43B7200BBF4C (StaticFunctionInvoker_3_tB16A4616A2FB4FF425B1867D2740C76AC60B4B4F* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_tB16A4616A2FB4FF425B1867D2740C76AC60B4B4F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m99200F986217D1DD06A81060D6CC43B7200BBF4C_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector2 UnityEngine.Vector2::op_Multiply(System.Single,UnityEngine.Vector2)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 Vector2_op_Multiply_mB3B310D2D0CAE78AFB2AE6A9FD2902DE4B359211_inline (float ___d0, Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___a1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<System.Single,UnityEngine.Vector2,UnityEngine.Vector2>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_mE697DA66F884B6DC5C1EEAFC09CEEDC6432901AE (StaticFunctionInvoker_3_t382E1BCA792069657B5FEA38B3CFCDB7619E8921* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t382E1BCA792069657B5FEA38B3CFCDB7619E8921*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mE697DA66F884B6DC5C1EEAFC09CEEDC6432901AE_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector2 UnityEngine.Vector2::op_Division(UnityEngine.Vector2,System.Single)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 Vector2_op_Division_m69F64D545E3C023BE9927397572349A569141EBA_inline (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___a0, float ___d1, const RuntimeMethod* method) ;
@@ -1346,7 +1268,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Vector2_op_Equality_m5447BF1
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector2,UnityEngine.Vector2,System.Boolean>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m10C566E957417160B5137DACC1707D0411F40437 (StaticFunctionInvoker_3_t5A9C1D6B6DBD5CE7BDE91CED1678F33EC681E7F2* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t5A9C1D6B6DBD5CE7BDE91CED1678F33EC681E7F2*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m10C566E957417160B5137DACC1707D0411F40437_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // System.Boolean UnityEngine.Vector2::op_Inequality(UnityEngine.Vector2,UnityEngine.Vector2)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Vector2_op_Inequality_mCF3935E28AC7B30B279F07F9321CC56718E1311A_inline (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___lhs0, Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___rhs1, const RuntimeMethod* method) ;
@@ -1355,42 +1277,42 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2D
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector3,UnityEngine.Vector2>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_2__ctor_m897119CCA49787633CDE89FDEDFA6A2A2FF237F7 (StaticFunctionInvoker_2_t52C289CF660B2FB458083EBE37934C670B32C937* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_2_t52C289CF660B2FB458083EBE37934C670B32C937*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m897119CCA49787633CDE89FDEDFA6A2A2FF237F7_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m83151B937C598CE532F687BFAE60AB15E5DEDDF4_gshared)((StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector3 UnityEngine.Vector2::op_Implicit(UnityEngine.Vector2)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector2_op_Implicit_mCD214B04BC52AED3C89C3BEF664B6247E5F8954A_inline (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___v0, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector2,UnityEngine.Vector3>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_2__ctor_mA358D72F36EFEBDBC4EBCB24B87ACB24290F35AE (StaticFunctionInvoker_2_t331424866CFADD4793288257D17586D58B674370* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_2_t331424866CFADD4793288257D17586D58B674370*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_mA358D72F36EFEBDBC4EBCB24B87ACB24290F35AE_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m83151B937C598CE532F687BFAE60AB15E5DEDDF4_gshared)((StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector4 UnityEngine.Vector4::op_Addition(UnityEngine.Vector4,UnityEngine.Vector4)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 Vector4_op_Addition_m5E7015CDA7DD1FCB4E488DE23C5DB959D7406843_inline (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___a0, Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___b1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector4,UnityEngine.Vector4,UnityEngine.Vector4>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m4F6AE20F151F7482EDE70A6458D5298846ED4276 (StaticFunctionInvoker_3_t371273EBED66F18553D52FB313C6CD6CB4FAE8A1* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t371273EBED66F18553D52FB313C6CD6CB4FAE8A1*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m4F6AE20F151F7482EDE70A6458D5298846ED4276_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector4 UnityEngine.Vector4::op_Subtraction(UnityEngine.Vector4,UnityEngine.Vector4)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 Vector4_op_Subtraction_m63EE36715F6D18A69FD6FE4439C3CB79098EFB29_inline (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___a0, Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___b1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector4,UnityEngine.Vector4>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_2__ctor_m21B946FBA35597B95D0DA4065594132F85EB8B75 (StaticFunctionInvoker_2_t1F36D65F36C5BFF16E62C9E1203436AC865F043C* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_2_t1F36D65F36C5BFF16E62C9E1203436AC865F043C*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m21B946FBA35597B95D0DA4065594132F85EB8B75_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m83151B937C598CE532F687BFAE60AB15E5DEDDF4_gshared)((StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector4 UnityEngine.Vector4::op_Multiply(UnityEngine.Vector4,System.Single)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 Vector4_op_Multiply_m10DA1FA6A405C8988C46FFD159ED9FF9E5D732F5_inline (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___a0, float ___d1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector4,System.Single,UnityEngine.Vector4>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_mDB0E368176AC0F74981F68B9BADE0BA88B68ACE8 (StaticFunctionInvoker_3_t42FBD76F491C70019BCE97A99FDF0478C101F625* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_t42FBD76F491C70019BCE97A99FDF0478C101F625*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDB0E368176AC0F74981F68B9BADE0BA88B68ACE8_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector4 UnityEngine.Vector4::op_Multiply(System.Single,UnityEngine.Vector4)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 Vector4_op_Multiply_m1275DF75EA153584D462F3DF4B827A04B548744D_inline (float ___d0, Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___a1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<System.Single,UnityEngine.Vector4,UnityEngine.Vector4>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m7A305D3EB9E4D1C4608EB83C95917A72A351C4F7 (StaticFunctionInvoker_3_tD5A0F4A81BEE446A465F6128FC2E178F6228A144* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_tD5A0F4A81BEE446A465F6128FC2E178F6228A144*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m7A305D3EB9E4D1C4608EB83C95917A72A351C4F7_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector4 UnityEngine.Vector4::op_Division(UnityEngine.Vector4,System.Single)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 Vector4_op_Division_mBBF62E1EDEB882858589FCF7280591FD11CD660C_inline (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___a0, float ___d1, const RuntimeMethod* method) ;
@@ -1399,7 +1321,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Vector4_op_Equality_m80E2AA0
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.Vector4,UnityEngine.Vector4,System.Boolean>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_m65C19CFE1236B690B5F32CA8623DE357AF0B1996 (StaticFunctionInvoker_3_tC118F4A2139AE10831743519EF1EEB05A10ED993* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_tC118F4A2139AE10831743519EF1EEB05A10ED993*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_m65C19CFE1236B690B5F32CA8623DE357AF0B1996_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // System.Boolean UnityEngine.Vector4::op_Inequality(UnityEngine.Vector4,UnityEngine.Vector4)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Vector4_op_Inequality_m23600308603A706A9DD6057603DEA82E9A6F9FEF_inline (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___lhs0, Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___rhs1, const RuntimeMethod* method) ;
@@ -1408,42 +1330,42 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector4_t58B63D32F48C0DBF50DE2C60
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector3,UnityEngine.Vector4>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_2__ctor_m3CF6BCFB63AF3FFC75B6ED77244BA1AC3E40591B (StaticFunctionInvoker_2_t0302491B45330A1A54A2CCE1277C785DF77C328E* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_2_t0302491B45330A1A54A2CCE1277C785DF77C328E*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m3CF6BCFB63AF3FFC75B6ED77244BA1AC3E40591B_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m83151B937C598CE532F687BFAE60AB15E5DEDDF4_gshared)((StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector3 UnityEngine.Vector4::op_Implicit(UnityEngine.Vector4)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector4_op_Implicit_m2EC16C74D768EEAA9BBC40DA11337F912014FC57_inline (Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___v0, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector4,UnityEngine.Vector3>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_2__ctor_mC78899B069E7532DBD5342A03876CC89B5CD1BE7 (StaticFunctionInvoker_2_t8F78B5C6EB5CA0127B2BEE3E8D87BEBC69353D57* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_2_t8F78B5C6EB5CA0127B2BEE3E8D87BEBC69353D57*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_mC78899B069E7532DBD5342A03876CC89B5CD1BE7_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m83151B937C598CE532F687BFAE60AB15E5DEDDF4_gshared)((StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*)__this, ___methodInfo0, method);
 }
 // UnityEngine.Vector4 UnityEngine.Vector4::op_Implicit(UnityEngine.Vector2)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 Vector4_op_Implicit_m6162D8136CFE97A5A8BD3B764F9074DB96AA5CD0_inline (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___v0, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.Vector2,UnityEngine.Vector4>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_2__ctor_mD5E87FD4516CD0725EA5C6433D77A84B2E5236D7 (StaticFunctionInvoker_2_t8C3FE5325A9982A7AB28DA26E20F0164B7D1391B* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_2_t8C3FE5325A9982A7AB28DA26E20F0164B7D1391B*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_mD5E87FD4516CD0725EA5C6433D77A84B2E5236D7_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m83151B937C598CE532F687BFAE60AB15E5DEDDF4_gshared)((StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*)__this, ___methodInfo0, method);
 }
 // System.Int32 UnityEngine.LayerMask::op_Implicit(UnityEngine.LayerMask)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t LayerMask_op_Implicit_m5D697E103A7CB05CADCED9F90FD4F6BAE955E763 (LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB ___mask0, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.LayerMask,System.Int32>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_2__ctor_m64F699667F0D1E5FA11C616D6CFCE170D76A3343 (StaticFunctionInvoker_2_t0779B28D55498FB5DB1EBFF71856765396D6C7A3* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_2_t0779B28D55498FB5DB1EBFF71856765396D6C7A3*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m64F699667F0D1E5FA11C616D6CFCE170D76A3343_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m83151B937C598CE532F687BFAE60AB15E5DEDDF4_gshared)((StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*)__this, ___methodInfo0, method);
 }
 // UnityEngine.LayerMask UnityEngine.LayerMask::op_Implicit(System.Int32)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB LayerMask_op_Implicit_mDC9C22C4477684D460FCF25B1BFE6B54419FB922 (int32_t ___intVal0, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`2<System.Int32,UnityEngine.LayerMask>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_2__ctor_m1C45147722AEA13B00A0DCA8977277AE365DD0BF (StaticFunctionInvoker_2_t968390765E954E5A69F757C0A02C0D4BDECAF48B* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_2_t968390765E954E5A69F757C0A02C0D4BDECAF48B*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m1C45147722AEA13B00A0DCA8977277AE365DD0BF_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m83151B937C598CE532F687BFAE60AB15E5DEDDF4_gshared)((StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*)__this, ___methodInfo0, method);
 }
 // System.Boolean UnityEngine.SceneManagement.Scene::op_Equality(UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.Scene)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Scene_op_Equality_m299018477251CD19CF480FB98EE3C79F9DBE3482 (Scene_tA1DC762B79745EB5140F054C884855B922318356 ___lhs0, Scene_tA1DC762B79745EB5140F054C884855B922318356 ___rhs1, const RuntimeMethod* method) ;
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`3<UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.Scene,System.Boolean>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_3__ctor_mCCAED0553F64BA48BE6D7518FD3389B6A065DE83 (StaticFunctionInvoker_3_tD1A08BA07E57C8F1E9D8F9DC8CB2C16A7E71DD3B* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_3_tD1A08BA07E57C8F1E9D8F9DC8CB2C16A7E71DD3B*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mCCAED0553F64BA48BE6D7518FD3389B6A065DE83_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_3__ctor_mDD9B19AD185B502685C070F8B493F7BD6DC40CCE_gshared)((StaticFunctionInvoker_3_t6C5EBDD1EB779AEB5B328982C0F936732A2A1F3F*)__this, ___methodInfo0, method);
 }
 // System.Boolean UnityEngine.SceneManagement.Scene::op_Inequality(UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.Scene)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Scene_op_Inequality_m09B2BD1870A8FECD83467E7A529AEE843FA6E84D (Scene_tA1DC762B79745EB5140F054C884855B922318356 ___lhs0, Scene_tA1DC762B79745EB5140F054C884855B922318356 ___rhs1, const RuntimeMethod* method) ;
@@ -1452,7 +1374,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool RaycastHit2D_op_Implicit_m768ECEE43BC378
 // System.Void Unity.VisualScripting.StaticFunctionInvoker`2<UnityEngine.RaycastHit2D,System.Boolean>::.ctor(System.Reflection.MethodInfo)
 inline void StaticFunctionInvoker_2__ctor_mA3962E648B832CD4DE39F5FAEC7C24BB2489DF2F (StaticFunctionInvoker_2_t2293A8C7AE8421E383453D4B9162503A0C479DE5* __this, MethodInfo_t* ___methodInfo0, const RuntimeMethod* method)
 {
-	((  void (*) (StaticFunctionInvoker_2_t2293A8C7AE8421E383453D4B9162503A0C479DE5*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_mA3962E648B832CD4DE39F5FAEC7C24BB2489DF2F_gshared)(__this, ___methodInfo0, method);
+	((  void (*) (StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*, MethodInfo_t*, const RuntimeMethod*))StaticFunctionInvoker_2__ctor_m83151B937C598CE532F687BFAE60AB15E5DEDDF4_gshared)((StaticFunctionInvoker_2_t9F122F24C30EE93CBF57630D0B67798B621497F8*)__this, ___methodInfo0, method);
 }
 // System.Void System.Object::.ctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2 (RuntimeObject* __this, const RuntimeMethod* method) ;
@@ -26999,6 +26921,130 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AotStubs_AIDataCollection_op_Equality_m5
 }
 // System.Void Unity.VisualScripting.Generated.Aot.AotStubs::AIDataCollection_op_Inequality()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AotStubs_AIDataCollection_op_Inequality_m9AB1034027343077AD8E874D7E553FC07DE654C7 (const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&StaticFunctionInvoker_3__ctor_m6ECE0899F63C38E54C67BE22307570E484786E21_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&StaticFunctionInvoker_3_t66B4891BE6B11D38C90DB74B008E4FC2BA112D1D_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* V_0 = NULL;
+	Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* V_1 = NULL;
+	{
+		// global::UnityEngine.Object arg0 = default(global::UnityEngine.Object);
+		V_0 = (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL;
+		// global::UnityEngine.Object arg1 = default(global::UnityEngine.Object);
+		V_1 = (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL;
+		// bool @operator = (arg0 != arg1);
+		Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* L_0 = V_0;
+		Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* L_1 = V_1;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_2;
+		L_2 = Object_op_Inequality_m4D656395C27694A7F33F5AA8DE80A7AAF9E20BA7(L_0, L_1, NULL);
+		// global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Object, UnityEngine.Object, bool> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Object, UnityEngine.Object, bool>(default(global::System.Reflection.MethodInfo));
+		StaticFunctionInvoker_3_t66B4891BE6B11D38C90DB74B008E4FC2BA112D1D* L_3 = (StaticFunctionInvoker_3_t66B4891BE6B11D38C90DB74B008E4FC2BA112D1D*)il2cpp_codegen_object_new(StaticFunctionInvoker_3_t66B4891BE6B11D38C90DB74B008E4FC2BA112D1D_il2cpp_TypeInfo_var);
+		NullCheck(L_3);
+		StaticFunctionInvoker_3__ctor_m6ECE0899F63C38E54C67BE22307570E484786E21(L_3, (MethodInfo_t*)NULL, StaticFunctionInvoker_3__ctor_m6ECE0899F63C38E54C67BE22307570E484786E21_RuntimeMethod_var);
+		// optimized.Invoke(null, arg0, arg1);
+		StaticFunctionInvoker_3_t66B4891BE6B11D38C90DB74B008E4FC2BA112D1D* L_4 = L_3;
+		Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* L_5 = V_0;
+		Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* L_6 = V_1;
+		NullCheck(L_4);
+		RuntimeObject* L_7;
+		L_7 = VirtualFuncInvoker3< RuntimeObject*, RuntimeObject*, RuntimeObject*, RuntimeObject* >::Invoke(16 /* System.Object Unity.VisualScripting.InvokerBase::Invoke(System.Object,System.Object,System.Object) */, L_4, NULL, L_5, L_6);
+		// optimized.Invoke(default(object[]));
+		NullCheck(L_4);
+		RuntimeObject* L_8;
+		L_8 = VirtualFuncInvoker1< RuntimeObject*, RuntimeObject* >::Invoke(14 /* System.Object Unity.VisualScripting.InvokerBase::Invoke(System.Object) */, L_4, NULL);
+		// }
+		return;
+	}
+}
+// System.Void Unity.VisualScripting.Generated.Aot.AotStubs::InputHandler_op_Implicit()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AotStubs_InputHandler_op_Implicit_mF51382A8480270F032BDBD38D4317DE45AA795E4 (const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&StaticFunctionInvoker_2__ctor_m4CDB31460E5A5BB11EB6135DABDC361799595091_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&StaticFunctionInvoker_2_tB0037C75DC128BB46023A63D75D3D946527C4F75_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* V_0 = NULL;
+	{
+		// global::UnityEngine.Object arg0 = default(global::UnityEngine.Object);
+		V_0 = (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL;
+		// bool conversion = ((bool)(arg0));
+		Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* L_0 = V_0;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_1;
+		L_1 = Object_op_Implicit_m18E1885C296CC868AC918101523697CFE6413C79(L_0, NULL);
+		// global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Object, bool> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Object, bool>(default(global::System.Reflection.MethodInfo));
+		StaticFunctionInvoker_2_tB0037C75DC128BB46023A63D75D3D946527C4F75* L_2 = (StaticFunctionInvoker_2_tB0037C75DC128BB46023A63D75D3D946527C4F75*)il2cpp_codegen_object_new(StaticFunctionInvoker_2_tB0037C75DC128BB46023A63D75D3D946527C4F75_il2cpp_TypeInfo_var);
+		NullCheck(L_2);
+		StaticFunctionInvoker_2__ctor_m4CDB31460E5A5BB11EB6135DABDC361799595091(L_2, (MethodInfo_t*)NULL, StaticFunctionInvoker_2__ctor_m4CDB31460E5A5BB11EB6135DABDC361799595091_RuntimeMethod_var);
+		// optimized.Invoke(null, arg0);
+		StaticFunctionInvoker_2_tB0037C75DC128BB46023A63D75D3D946527C4F75* L_3 = L_2;
+		Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* L_4 = V_0;
+		NullCheck(L_3);
+		RuntimeObject* L_5;
+		L_5 = VirtualFuncInvoker2< RuntimeObject*, RuntimeObject*, RuntimeObject* >::Invoke(15 /* System.Object Unity.VisualScripting.InvokerBase::Invoke(System.Object,System.Object) */, L_3, NULL, L_4);
+		// optimized.Invoke(default(object[]));
+		NullCheck(L_3);
+		RuntimeObject* L_6;
+		L_6 = VirtualFuncInvoker1< RuntimeObject*, RuntimeObject* >::Invoke(14 /* System.Object Unity.VisualScripting.InvokerBase::Invoke(System.Object) */, L_3, NULL);
+		// }
+		return;
+	}
+}
+// System.Void Unity.VisualScripting.Generated.Aot.AotStubs::InputHandler_op_Equality()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AotStubs_InputHandler_op_Equality_mEBD38469C26D8F78D44681784E30F76A44A35948 (const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&StaticFunctionInvoker_3__ctor_m6ECE0899F63C38E54C67BE22307570E484786E21_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&StaticFunctionInvoker_3_t66B4891BE6B11D38C90DB74B008E4FC2BA112D1D_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* V_0 = NULL;
+	Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* V_1 = NULL;
+	{
+		// global::UnityEngine.Object arg0 = default(global::UnityEngine.Object);
+		V_0 = (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL;
+		// global::UnityEngine.Object arg1 = default(global::UnityEngine.Object);
+		V_1 = (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL;
+		// bool @operator = (arg0 == arg1);
+		Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* L_0 = V_0;
+		Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* L_1 = V_1;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_2;
+		L_2 = Object_op_Equality_mD3DB0D72CE0250C84033DC2A90AEF9D59896E536(L_0, L_1, NULL);
+		// global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Object, UnityEngine.Object, bool> optimized = new global::Unity.VisualScripting.StaticFunctionInvoker<UnityEngine.Object, UnityEngine.Object, bool>(default(global::System.Reflection.MethodInfo));
+		StaticFunctionInvoker_3_t66B4891BE6B11D38C90DB74B008E4FC2BA112D1D* L_3 = (StaticFunctionInvoker_3_t66B4891BE6B11D38C90DB74B008E4FC2BA112D1D*)il2cpp_codegen_object_new(StaticFunctionInvoker_3_t66B4891BE6B11D38C90DB74B008E4FC2BA112D1D_il2cpp_TypeInfo_var);
+		NullCheck(L_3);
+		StaticFunctionInvoker_3__ctor_m6ECE0899F63C38E54C67BE22307570E484786E21(L_3, (MethodInfo_t*)NULL, StaticFunctionInvoker_3__ctor_m6ECE0899F63C38E54C67BE22307570E484786E21_RuntimeMethod_var);
+		// optimized.Invoke(null, arg0, arg1);
+		StaticFunctionInvoker_3_t66B4891BE6B11D38C90DB74B008E4FC2BA112D1D* L_4 = L_3;
+		Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* L_5 = V_0;
+		Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* L_6 = V_1;
+		NullCheck(L_4);
+		RuntimeObject* L_7;
+		L_7 = VirtualFuncInvoker3< RuntimeObject*, RuntimeObject*, RuntimeObject*, RuntimeObject* >::Invoke(16 /* System.Object Unity.VisualScripting.InvokerBase::Invoke(System.Object,System.Object,System.Object) */, L_4, NULL, L_5, L_6);
+		// optimized.Invoke(default(object[]));
+		NullCheck(L_4);
+		RuntimeObject* L_8;
+		L_8 = VirtualFuncInvoker1< RuntimeObject*, RuntimeObject* >::Invoke(14 /* System.Object Unity.VisualScripting.InvokerBase::Invoke(System.Object) */, L_4, NULL);
+		// }
+		return;
+	}
+}
+// System.Void Unity.VisualScripting.Generated.Aot.AotStubs::InputHandler_op_Inequality()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AotStubs_InputHandler_op_Inequality_mCDD80D8458086F55F8C0EBC2E80DCC7F5EDA7CA4 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)

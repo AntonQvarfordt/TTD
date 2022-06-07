@@ -133,8 +133,8 @@ struct InterfaceFuncInvoker1
 
 // System.Action`2<Sirenix.Serialization.BinaryDataWriter,System.Object>
 struct Action_2_t7626AB8067854FD1A976A8875B26AF60E162E6AF;
-// System.Action`2<System.Object,System.Object>
-struct Action_2_t156C43F079E7E68155FCDCD12DC77DD11AEF7E3C;
+// System.Action`2<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>
+struct Action_2_t1D42C7D8DCD2DEB7C556FB3783F0EDAFF694E5E8;
 // System.Action`3<System.Byte[],System.Int32,System.Boolean>
 struct Action_3_tD6E080F36319CBF6BF1621FF6C67DCA2E608EB98;
 // System.Action`3<System.Byte[],System.Int32,System.Byte>
@@ -163,36 +163,12 @@ struct Action_3_tC9307B24BB0C531145058E18028E296F840CBA67;
 struct Action_3_tD051CEE665CB7EE31E074DA49DCAE32AD8A5CF53;
 // System.Action`3<System.Byte[],System.Int32,System.UInt64>
 struct Action_3_tC603593BE9AB0D6252D0674BA4A7547AA0FF84E5;
-// System.Action`3<System.Object,System.Int32,System.Boolean>
-struct Action_3_tD47D108A4B3A5B7DA9971FDD66DCDD1A63A223AE;
-// System.Action`3<System.Object,System.Int32,System.Byte>
-struct Action_3_tEEC2E2976F4E97803A25D3FC68A52499193F208B;
-// System.Action`3<System.Object,System.Int32,System.Char>
-struct Action_3_t0AB9D2A357B648BFC1C2C31A2F73D2D279F139AF;
-// System.Action`3<System.Object,System.Int32,System.Decimal>
-struct Action_3_tD91EDE9B64D7A1D42395D3D4D4119875780E0BC7;
-// System.Action`3<System.Object,System.Int32,System.Double>
-struct Action_3_tEB5F27D024C04A13BF76D75D2A04E1EAA1AB2BD7;
-// System.Action`3<System.Object,System.Int32,System.Guid>
-struct Action_3_tCF7DC1E5E97AEE447D399457DA7D47842044D93F;
-// System.Action`3<System.Object,System.Int32,System.Int16>
-struct Action_3_t405997311F83A28B9A3DE4CF0E77B806DA13E048;
-// System.Action`3<System.Object,System.Int32,System.Int32>
-struct Action_3_t3E14C5AE586D1A19350D32B719359B1F1EB79ABE;
-// System.Action`3<System.Object,System.Int32,System.Int64>
-struct Action_3_t64ADE4C703A13C3888C1F2D2297B85AD768124E7;
-// System.Action`3<System.Object,System.Int32,System.SByte>
-struct Action_3_tC216E8833822256D1912D011B9A612BFA4F0FB57;
-// System.Action`3<System.Object,System.Int32,System.Single>
-struct Action_3_t5C798B391CC60C273DC29A43BF37EABEA0A5CE2E;
-// System.Action`3<System.Object,System.Int32,System.UInt16>
-struct Action_3_t6C98579EB0ADEFF6E20377C8BA67B3530FDEC769;
-// System.Action`3<System.Object,System.Int32,System.UInt32>
-struct Action_3_t3644DED0C553C5BE65E0B421EA11C74FD6387926;
-// System.Action`3<System.Object,System.Int32,System.UInt64>
-struct Action_3_t887FCFA2A44C1B3B79C062C248EEE3F457D4DCC2;
+// System.Action`3<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>
+struct Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146;
 // Sirenix.Serialization.Buffer`1<System.Byte>
 struct Buffer_1_tFAFE8746763029E82FE19241FCF37800F3C02125;
+// Sirenix.Serialization.Buffer`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>
+struct Buffer_1_t9305E48C1081F65E6FA395EC749581159B828AE2;
 // System.Collections.Generic.Dictionary`2<System.Char,System.Nullable`1<Sirenix.Serialization.EntryType>>
 struct Dictionary_2_tB09CAA5C2022E6B4A4EBFAE88467F8CD3BDDC7D7;
 // System.Collections.Generic.Dictionary`2<System.Char,System.Char>
@@ -207,8 +183,6 @@ struct Dictionary_2_tA75D1125AC9BE8F005BA9B868B373398E643C907;
 struct Dictionary_2_tBDD02A03073B49D98E514F9FDE894CE445376A36;
 // System.Collections.Generic.Dictionary`2<System.Object,System.Int32>
 struct Dictionary_2_t5C96F4B6841710A9013966F76224BAE01FB4B4D1;
-// System.Collections.Generic.Dictionary`2<System.Object,System.Object>
-struct Dictionary_2_t14FE4A752A83D53771C584E4C8D14E01F2AFD7BA;
 // System.Collections.Generic.Dictionary`2<System.String,System.Globalization.CultureInfo>
 struct Dictionary_2_tE1603CE612C16451D1E56FF4D4859D4FE4087C28;
 // System.Collections.Generic.Dictionary`2<System.Type,System.Action`2<Sirenix.Serialization.BinaryDataWriter,System.Object>>
@@ -221,6 +195,8 @@ struct Dictionary_2_t384D2A0FF42BF1302A3F513FC32DB105F1CD5455;
 struct Dictionary_2_tFC542F52AF721FEF237136A160FE0EBB15A771CA;
 // System.Collections.Generic.Dictionary`2<System.Type,System.Type>
 struct Dictionary_2_t8BF76F08F2E28AE3B97CD39EBC7A0FE57398B1B0;
+// System.Collections.Generic.Dictionary`2<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>
+struct Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E;
 // System.Func`1<System.Boolean>
 struct Func_1_t2BE7F58348C9CC544A8973B3A9E55541DE43C457;
 // System.Func`1<System.Byte>
@@ -249,6 +225,8 @@ struct Func_1_t01C271DAAA995A6BB3551CEE7211992D2014C54D;
 struct Func_1_tF6541D6142ABBB0E6DD98A0B3A635B1F2002DC6D;
 // System.Func`1<System.UInt64>
 struct Func_1_t8FB054CAA84105278E81718602A899DC392659DC;
+// System.Func`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>
+struct Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431;
 // System.Func`3<System.Byte[],System.Int32,System.Boolean>
 struct Func_3_tD92FE9D1F2D4C35B554AF0942D4E50BC4AFB00A4;
 // System.Func`3<System.Byte[],System.Int32,System.Byte>
@@ -277,40 +255,14 @@ struct Func_3_t73D0E383646A61A38AD0167F90D52DDB3161F17A;
 struct Func_3_t3A64F68F62266500C12C9F68160798259ECCB10A;
 // System.Func`3<System.Byte[],System.Int32,System.UInt64>
 struct Func_3_tC84903FFAFB97703E2C7BE3F27247ACE29E6CC4F;
-// System.Func`3<System.Object,System.Int32,System.Boolean>
-struct Func_3_tF03057D8F2223EA4C7E5EF1FABBE4CE367A43326;
-// System.Func`3<System.Object,System.Int32,System.Byte>
-struct Func_3_tF21B366557BA1A46AA5929C4023D831CB3C7E63B;
-// System.Func`3<System.Object,System.Int32,System.Char>
-struct Func_3_tAE5038B0E22033FD4C07ED72A7D4076869AE7586;
-// System.Func`3<System.Object,System.Int32,System.Decimal>
-struct Func_3_t5E6A13FF5EB38B09FB39894D2C85C476C6A3D16F;
-// System.Func`3<System.Object,System.Int32,System.Double>
-struct Func_3_t04D9BAA3CD9FA053F27831BBECDDBCEF0BAE27EC;
-// System.Func`3<System.Object,System.Int32,System.Guid>
-struct Func_3_t195E5F23998C7E31396D13C5BE8454CFAE3890EE;
-// System.Func`3<System.Object,System.Int32,System.Int16>
-struct Func_3_t7AA6FF1E82A9036FFAE3CF8D58AC2D0B09407E83;
-// System.Func`3<System.Object,System.Int32,System.Int32>
-struct Func_3_tDC12B1480F34ED9A70CB26794928E60F60A42300;
-// System.Func`3<System.Object,System.Int32,System.Int64>
-struct Func_3_tB870F516908FBCC4CD866EC48D89FE259AD0BCCD;
-// System.Func`3<System.Object,System.Int32,System.SByte>
-struct Func_3_tF7D54196BEE321894D61FAA2BCB3D05CA70FDA74;
-// System.Func`3<System.Object,System.Int32,System.Single>
-struct Func_3_t3BB4326EE128F0D96A9E184E7184ADBA202B870D;
-// System.Func`3<System.Object,System.Int32,System.UInt16>
-struct Func_3_t21077CF6F34578849B0D5237FBB3426C8DA0D190;
-// System.Func`3<System.Object,System.Int32,System.UInt32>
-struct Func_3_t52E361F518BC7E8098283C62F67D5269C3C35A36;
-// System.Func`3<System.Object,System.Int32,System.UInt64>
-struct Func_3_tA7C5339065A1317A509B574D8FE7A0AFE04FE05F;
+// System.Func`3<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>
+struct Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4;
 // System.Collections.Generic.IEqualityComparer`1<System.Int32>
 struct IEqualityComparer_1_tDBFC8496F14612776AF930DBF84AFE7D06D1F0E9;
-// System.Collections.Generic.IEqualityComparer`1<System.Object>
-struct IEqualityComparer_1_t2CA7720C7ADCCDECD3B02E45878B4478619D5347;
 // System.Collections.Generic.IEqualityComparer`1<System.Type>
 struct IEqualityComparer_1_t0C79004BFE79D9DBCE6C2250109D31D468A9A68E;
+// System.Collections.Generic.IEqualityComparer`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>
+struct IEqualityComparer_1_t47CC0B235E693652D181B679FF6D61A469ECC122;
 // System.Collections.Generic.Dictionary`2/KeyCollection<System.Int32,System.Type>
 struct KeyCollection_tB8089C47DE42CE5424A9FA4059BCA47EA7AC8410;
 // System.Collections.Generic.Dictionary`2/KeyCollection<System.Type,System.Action`2<Sirenix.Serialization.BinaryDataWriter,System.Object>>
@@ -327,10 +279,10 @@ struct List_1_t9A2E2984B23260AECDFA90CEB1F2887075FA4DF3;
 struct List_1_t449A088656B6F11EC9C513A6937BB74A07028F58;
 // System.Collections.Generic.List`1<System.String>
 struct List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD;
-// Sirenix.Serialization.MinimalBaseFormatter`1<System.Object>
-struct MinimalBaseFormatter_1_tB16D808E6F917D4D4110FF39599A54DDAED659FB;
 // Sirenix.Serialization.MinimalBaseFormatter`1<System.Version>
 struct MinimalBaseFormatter_1_tC3BEE11E582EA0034DCEDB44AFE4179D6EE39F1C;
+// Sirenix.Serialization.MinimalBaseFormatter`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>
+struct MinimalBaseFormatter_1_tD91F3F7F7C6E09EF06239BE0B9BBE3E091B1E1E1;
 // System.Collections.Generic.Queue`1<System.Char>
 struct Queue_1_t8D07FBC1D2648082606039B37205A7F2B9B9D9A8;
 // System.Threading.Tasks.Task`1<System.Int32>
@@ -373,6 +325,8 @@ struct StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248;
 struct TypeU5BU5D_t97234E1129B564EB38B8D85CAC2AD8B5B9522FFB;
 // System.UInt32[]
 struct UInt32U5BU5D_t02FBD658AD156A17574ECE6106CF1FBFCC9807FA;
+// Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType[]
+struct __Il2CppFullySharedGenericTypeU5BU5D_tCAB6D060972DD49223A834B7EEFEB9FE2D003BEC;
 // Sirenix.Serialization.AllowDeserializeInvalidDataAttribute
 struct AllowDeserializeInvalidDataAttribute_t3FC873500C6CA5E8A911AB0EFAB8535550453BD4;
 // System.ArgumentException
@@ -1429,15 +1383,6 @@ struct U3CU3Ec_t6186E767C11D28B9022C126D90FED362DEB678EE_StaticFields
 	U3CU3Ec_t6186E767C11D28B9022C126D90FED362DEB678EE* ___U3CU3E9_0;
 };
 
-// System.Nullable`1<System.ByteEnum>
-struct Nullable_1_t03E990096DA2676FE760B9E8D2FA90FE1452F0B2 
-{
-	// System.Boolean System.Nullable`1::hasValue
-	bool ___hasValue_0;
-	// T System.Nullable`1::value
-	uint8_t ___value_1;
-};
-
 // System.Nullable`1<System.Char>
 struct Nullable_1_tD52F1D0FC7EBB336F119BE953E59F426766032C1 
 {
@@ -1822,6 +1767,9 @@ struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915
 		uint8_t Void_t4861ACF8F4594C3437BB48B6E56783494B843915__padding[1];
 	};
 };
+
+// System.Nullable`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericStructType>
+typedef Il2CppFullySharedGenericStruct Nullable_1_t71C4EA4E848DBD7A4A97704069FB951159A3A339;
 
 // Sirenix.Serialization.BinaryDataReader
 struct BinaryDataReader_t58425E92734B0E416A090AAA04783F62370CC950  : public BaseDataReader_tC71D38CF580346A6574D20C6243FCC8B6C127032
@@ -3188,136 +3136,48 @@ struct GuidU5BU5D_t0B65C049D6CE72B5A2BF6E42AE9C98CEC1BE6B42  : public RuntimeArr
 };
 
 
-// System.Void Sirenix.Serialization.MinimalBaseFormatter`1<System.Object>::.ctor()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MinimalBaseFormatter_1__ctor_mDCFDA2DCF6B3461FEFFA2D43F86AAFC916D2F6B1_gshared (MinimalBaseFormatter_1_tB16D808E6F917D4D4110FF39599A54DDAED659FB* __this, const RuntimeMethod* method) ;
+// System.Void Sirenix.Serialization.MinimalBaseFormatter`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MinimalBaseFormatter_1__ctor_m0012B397062EF411803707ACAB1B287BD4D68CDD_gshared (MinimalBaseFormatter_1_tD91F3F7F7C6E09EF06239BE0B9BBE3E091B1E1E1* __this, const RuntimeMethod* method) ;
 // System.Boolean Sirenix.Serialization.Utilities.TypeExtensions::IsDefined<System.Object>(System.Type)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool TypeExtensions_IsDefined_TisRuntimeObject_m6F330BD787F0059DC062D3DB682E5C590093AFF6_gshared (Type_t* ___type0, const RuntimeMethod* method) ;
-// System.Void System.Collections.Generic.Dictionary`2<System.Int32,System.Object>::.ctor(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2__ctor_m2E996E8E97DFC188B4E8854C11A9C82B16EDD2CE_gshared (Dictionary_2_tA75D1125AC9BE8F005BA9B868B373398E643C907* __this, int32_t ___capacity0, const RuntimeMethod* method) ;
-// System.Boolean System.Nullable`1<System.ByteEnum>::get_HasValue()
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Nullable_1_get_HasValue_m734A0AE90EE3BDA701FBF3A60B4A485A0B1568A0_gshared_inline (Nullable_1_t03E990096DA2676FE760B9E8D2FA90FE1452F0B2* __this, const RuntimeMethod* method) ;
-// T System.Nullable`1<System.ByteEnum>::get_Value()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint8_t Nullable_1_get_Value_mE5CC6A25131BC0BB308AAE86D96DDB117B448650_gshared (Nullable_1_t03E990096DA2676FE760B9E8D2FA90FE1452F0B2* __this, const RuntimeMethod* method) ;
-// System.Void System.Nullable`1<System.ByteEnum>::.ctor(T)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Nullable_1__ctor_m812145458B72A334FF7E947D6CE70F4CE330BEBD_gshared (Nullable_1_t03E990096DA2676FE760B9E8D2FA90FE1452F0B2* __this, uint8_t ___value0, const RuntimeMethod* method) ;
-// T System.Nullable`1<System.ByteEnum>::GetValueOrDefault()
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR uint8_t Nullable_1_GetValueOrDefault_m6AF3AF6DB9554746726B5BB6D718859A894BD12E_gshared_inline (Nullable_1_t03E990096DA2676FE760B9E8D2FA90FE1452F0B2* __this, const RuntimeMethod* method) ;
-// System.Void System.Collections.Generic.Dictionary`2<System.Int32,System.Object>::Clear()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2_Clear_mE1EFF7C68491EE07D21EE9924475A559BF0A4773_gshared (Dictionary_2_tA75D1125AC9BE8F005BA9B868B373398E643C907* __this, const RuntimeMethod* method) ;
-// System.Boolean System.Collections.Generic.Dictionary`2<System.Int32,System.Object>::TryGetValue(TKey,TValue&)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Dictionary_2_TryGetValue_m7316301B8CF47FB538886B229B2749EC160B9D5C_gshared (Dictionary_2_tA75D1125AC9BE8F005BA9B868B373398E643C907* __this, int32_t ___key0, RuntimeObject** ___value1, const RuntimeMethod* method) ;
-// System.Void System.Collections.Generic.Dictionary`2<System.Int32,System.Object>::Add(TKey,TValue)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2_Add_mAF1EF7DA16BD70E252EA5C4B0F74DE519A02CBCD_gshared (Dictionary_2_tA75D1125AC9BE8F005BA9B868B373398E643C907* __this, int32_t ___key0, RuntimeObject* ___value1, const RuntimeMethod* method) ;
-// System.Void System.Collections.Generic.Dictionary`2<System.Object,System.Object>::.ctor()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2__ctor_m5B32FBC624618211EB461D59CFBB10E987FD1329_gshared (Dictionary_2_t14FE4A752A83D53771C584E4C8D14E01F2AFD7BA* __this, const RuntimeMethod* method) ;
-// System.Void System.Func`3<System.Object,System.Int32,System.Char>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_3__ctor_mB74B512421B3654E91865BF768DAB07FBF8519F7_gshared (Func_3_tAE5038B0E22033FD4C07ED72A7D4076869AE7586* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Collections.Generic.Dictionary`2<System.Object,System.Object>::Add(TKey,TValue)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2_Add_m93FFFABE8FCE7FA9793F0915E2A8842C7CD0C0C1_gshared (Dictionary_2_t14FE4A752A83D53771C584E4C8D14E01F2AFD7BA* __this, RuntimeObject* ___key0, RuntimeObject* ___value1, const RuntimeMethod* method) ;
-// System.Void System.Func`3<System.Object,System.Int32,System.Byte>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_3__ctor_m764A470D4D8ED05BEB4D043CBD7D29D2B77DFF5B_gshared (Func_3_tF21B366557BA1A46AA5929C4023D831CB3C7E63B* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`3<System.Object,System.Int32,System.SByte>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_3__ctor_mE794A39045517A64185F7C9BA859494A112E4EB1_gshared (Func_3_tF7D54196BEE321894D61FAA2BCB3D05CA70FDA74* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`3<System.Object,System.Int32,System.Boolean>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_3__ctor_mAA60567A65656DD2E82EBEA860B1BF5FD07CF435_gshared (Func_3_tF03057D8F2223EA4C7E5EF1FABBE4CE367A43326* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`3<System.Object,System.Int32,System.Int16>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_3__ctor_mB79099E9ED94D7272F2F9DD0C729844EBAB82D24_gshared (Func_3_t7AA6FF1E82A9036FFAE3CF8D58AC2D0B09407E83* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`3<System.Object,System.Int32,System.Int32>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_3__ctor_m03DA669B0EFE786DECFBC2F7CF70314CE0705ADB_gshared (Func_3_tDC12B1480F34ED9A70CB26794928E60F60A42300* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`3<System.Object,System.Int32,System.Int64>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_3__ctor_m432906418DC76DB49BDBD97CEE51FE75B7D2A6DA_gshared (Func_3_tB870F516908FBCC4CD866EC48D89FE259AD0BCCD* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`3<System.Object,System.Int32,System.UInt16>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_3__ctor_m8437D36AEB0519AC99C6F0A485442F91C1E2DF06_gshared (Func_3_t21077CF6F34578849B0D5237FBB3426C8DA0D190* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`3<System.Object,System.Int32,System.UInt32>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_3__ctor_mB5C2C31B2C04160EC9E2BEF87EA39AB0F679536B_gshared (Func_3_t52E361F518BC7E8098283C62F67D5269C3C35A36* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`3<System.Object,System.Int32,System.UInt64>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_3__ctor_m226E7242992151290A9EC5931127188D555AE5F0_gshared (Func_3_tA7C5339065A1317A509B574D8FE7A0AFE04FE05F* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`3<System.Object,System.Int32,System.Decimal>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_3__ctor_mDF3CCB5E1E6A6213A7F3BC847BC885D6B0AC9015_gshared (Func_3_t5E6A13FF5EB38B09FB39894D2C85C476C6A3D16F* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`3<System.Object,System.Int32,System.Single>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_3__ctor_m6F430FC7F7B6F34BEF6C85334FDE889B951F1E9B_gshared (Func_3_t3BB4326EE128F0D96A9E184E7184ADBA202B870D* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`3<System.Object,System.Int32,System.Double>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_3__ctor_m5582087535657823C74B9D727FCB4E13C646399C_gshared (Func_3_t04D9BAA3CD9FA053F27831BBECDDBCEF0BAE27EC* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`3<System.Object,System.Int32,System.Guid>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_3__ctor_mE6B41BF4209034741C69456E149987276948243B_gshared (Func_3_t195E5F23998C7E31396D13C5BE8454CFAE3890EE* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Collections.Generic.Dictionary`2<System.Object,System.Int32>::.ctor(System.Int32,System.Collections.Generic.IEqualityComparer`1<TKey>)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2__ctor_m4C802F609D63FAB6D65E2A9A52080657CCD56319_gshared (Dictionary_2_t5C96F4B6841710A9013966F76224BAE01FB4B4D1* __this, int32_t ___capacity0, RuntimeObject* ___comparer1, const RuntimeMethod* method) ;
-// Sirenix.Serialization.Buffer`1<T> Sirenix.Serialization.Buffer`1<System.Byte>::Claim(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Buffer_1_tFAFE8746763029E82FE19241FCF37800F3C02125* Buffer_1_Claim_m0AB82D6D8548E2FF8F251CBD2EF57DDB346BFE48_gshared (int32_t ___minimumCapacity0, const RuntimeMethod* method) ;
-// T[] Sirenix.Serialization.Buffer`1<System.Byte>::get_Array()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* Buffer_1_get_Array_mC158A19079CD22224796739FDB2F70F90475C7E2_gshared (Buffer_1_tFAFE8746763029E82FE19241FCF37800F3C02125* __this, const RuntimeMethod* method) ;
-// System.Void System.Collections.Generic.Dictionary`2<System.Object,System.Int32>::Clear()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2_Clear_m931E25EF2557C3A386E4B9DC8D8212B7D9D3F5AE_gshared (Dictionary_2_t5C96F4B6841710A9013966F76224BAE01FB4B4D1* __this, const RuntimeMethod* method) ;
-// System.Boolean System.Collections.Generic.Dictionary`2<System.Object,System.Int32>::TryGetValue(TKey,TValue&)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Dictionary_2_TryGetValue_m4B8EE45640C70BBFD6F3EFF1040983404C098342_gshared (Dictionary_2_t5C96F4B6841710A9013966F76224BAE01FB4B4D1* __this, RuntimeObject* ___key0, int32_t* ___value1, const RuntimeMethod* method) ;
-// System.Int32 System.Collections.Generic.Dictionary`2<System.Object,System.Int32>::get_Count()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Dictionary_2_get_Count_mEE80B960C3B902E5FB4D2458CEB323B68A954926_gshared (Dictionary_2_t5C96F4B6841710A9013966F76224BAE01FB4B4D1* __this, const RuntimeMethod* method) ;
-// System.Void System.Collections.Generic.Dictionary`2<System.Object,System.Int32>::Add(TKey,TValue)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2_Add_m63897227AFA7035F1772315ABBBE7FD0A250E10C_gshared (Dictionary_2_t5C96F4B6841710A9013966F76224BAE01FB4B4D1* __this, RuntimeObject* ___key0, int32_t ___value1, const RuntimeMethod* method) ;
-// System.Void System.Collections.Generic.Dictionary`2<System.Object,System.Object>::.ctor(System.Collections.Generic.IEqualityComparer`1<TKey>)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2__ctor_mB2760A703784902BE10E873BC760166EC9693D63_gshared (Dictionary_2_t14FE4A752A83D53771C584E4C8D14E01F2AFD7BA* __this, RuntimeObject* ___comparer0, const RuntimeMethod* method) ;
-// System.Void System.Action`3<System.Object,System.Int32,System.Char>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_3__ctor_m4C4C4018183042F691761ACFB1C89381253FCE0E_gshared (Action_3_t0AB9D2A357B648BFC1C2C31A2F73D2D279F139AF* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Action`3<System.Object,System.Int32,System.Byte>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_3__ctor_m7F42878F0FEC928C460AFABE8751F18AAC588675_gshared (Action_3_tEEC2E2976F4E97803A25D3FC68A52499193F208B* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Action`3<System.Object,System.Int32,System.SByte>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_3__ctor_m9DEBC65B3793DDC40524D67A5B8A95FA358ED41F_gshared (Action_3_tC216E8833822256D1912D011B9A612BFA4F0FB57* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Action`3<System.Object,System.Int32,System.Boolean>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_3__ctor_m5FC968BDD4D60E8A6B682280FEB6C7298C692269_gshared (Action_3_tD47D108A4B3A5B7DA9971FDD66DCDD1A63A223AE* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Action`3<System.Object,System.Int32,System.Int16>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_3__ctor_m0BDF2220874AAB57ABDE668D5B53BA7D7F95CF13_gshared (Action_3_t405997311F83A28B9A3DE4CF0E77B806DA13E048* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Action`3<System.Object,System.Int32,System.Int32>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_3__ctor_m28D618ACD30D378303374C6D5A85A5567573DF39_gshared (Action_3_t3E14C5AE586D1A19350D32B719359B1F1EB79ABE* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Action`3<System.Object,System.Int32,System.Int64>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_3__ctor_mA5ADF620DEB401A96901A4AE70AC41640A8032B3_gshared (Action_3_t64ADE4C703A13C3888C1F2D2297B85AD768124E7* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Action`3<System.Object,System.Int32,System.UInt16>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_3__ctor_mF187855FBA16F91F85C84371CDE83B2AE18D55F9_gshared (Action_3_t6C98579EB0ADEFF6E20377C8BA67B3530FDEC769* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Action`3<System.Object,System.Int32,System.UInt32>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_3__ctor_m4B202F63DE64CEB898AEA142ACC2C62AB7C217CC_gshared (Action_3_t3644DED0C553C5BE65E0B421EA11C74FD6387926* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Action`3<System.Object,System.Int32,System.UInt64>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_3__ctor_m02667367A2C0C091BD5D3BDC1BF0A308FDB3EC9F_gshared (Action_3_t887FCFA2A44C1B3B79C062C248EEE3F457D4DCC2* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Action`3<System.Object,System.Int32,System.Decimal>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_3__ctor_mC9475B539BEC00EB58F1067899C0CF6776287443_gshared (Action_3_tD91EDE9B64D7A1D42395D3D4D4119875780E0BC7* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Action`3<System.Object,System.Int32,System.Single>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_3__ctor_mEB13D3C435CC557CB7F0F0392CFA7E3D3F09A199_gshared (Action_3_t5C798B391CC60C273DC29A43BF37EABEA0A5CE2E* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Action`3<System.Object,System.Int32,System.Double>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_3__ctor_mE0A10B75B6E8DF3E6E3CC9ACFE3A9103193C512A_gshared (Action_3_tEB5F27D024C04A13BF76D75D2A04E1EAA1AB2BD7* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Action`3<System.Object,System.Int32,System.Guid>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_3__ctor_m581E023C01EA8A3E011745C200982522D7788B2E_gshared (Action_3_tCF7DC1E5E97AEE447D399457DA7D47842044D93F* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Collections.Generic.Dictionary`2<System.Object,System.Int32>::.ctor(System.Collections.Generic.IEqualityComparer`1<TKey>)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2__ctor_m89AC42CD88BC0ED965D36B7028EF3DE23D290E1D_gshared (Dictionary_2_t5C96F4B6841710A9013966F76224BAE01FB4B4D1* __this, RuntimeObject* ___comparer0, const RuntimeMethod* method) ;
-// System.Void System.Action`2<System.Object,System.Object>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_2__ctor_m6A0E7FE9DF9AE6C4BEE58611CB55F64FC3D79052_gshared (Action_2_t156C43F079E7E68155FCDCD12DC77DD11AEF7E3C* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`1<System.Char>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_m64666B7C79DD37423166867D6AC3A2487EB91E13_gshared (Func_1_tE206E9F9B41CFFF0572F2C4B0387B4E70C161ACC* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`1<System.SByte>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_m9C775C8E4FE5ABE4F2B0B95A72F184DDA5C2CFEE_gshared (Func_1_t5800A995BE95C9F3897A7F86E964157A7D0B10AC* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`1<System.Int16>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_m990FDA63F98319790D3131C95D8B44F9EC0D280C_gshared (Func_1_tEFE13D8B81B3DD3ECB817DA9CC397451AAF9881A* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`1<System.Int32>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_m475512287B9508E6D4721B3022635FED517234D1_gshared (Func_1_tC288CCB64EFD1F5FD49C3F8DE91FE62905E44BCD* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`1<System.Int64>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_m8E73BFE6AD5362513E1302835EF279650B70333F_gshared (Func_1_t84FF2BA023F4FF598B3D124B60BB85D6F904FE1D* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`1<System.Byte>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_mE042A1BE679CC2AAF7894C7AB76FD6236643895E_gshared (Func_1_t0C3FDD735FCDC6B3F63DD37025A9B0CD52DA078C* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`1<System.UInt16>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_m8917D4A735B10A01469C15D7688BD48062E8BDD3_gshared (Func_1_t01C271DAAA995A6BB3551CEE7211992D2014C54D* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`1<System.UInt32>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_mA75D888F13C413523F1ECD54F44E8715CB1635C2_gshared (Func_1_tF6541D6142ABBB0E6DD98A0B3A635B1F2002DC6D* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`1<System.UInt64>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_mD968677C7C680B35882A8D3066A30972C423E0B4_gshared (Func_1_t8FB054CAA84105278E81718602A899DC392659DC* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`1<System.Decimal>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_m4EA800E0563D5E2E04CA0F5DF857947309DFB951_gshared (Func_1_tD93ED0F663FCE513F35D9AEFEABC8B4714731F33* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`1<System.Boolean>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_mDFFAE9C73346372438B5B04C4558AC42F1A3DA22_gshared (Func_1_t2BE7F58348C9CC544A8973B3A9E55541DE43C457* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`1<System.Single>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_m94E0C712F86101E026834DA318C3FFF46DE49C71_gshared (Func_1_t11C3830580201E0A3A3A2C76523B7905EF40BCF7* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`1<System.Double>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_mFD3B853B23577DD7757C6726EB1FB0EC97D25B31_gshared (Func_1_t7748833627297E42C5F5E294D4EF6457E839B5D7* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Func`1<System.Guid>::.ctor(System.Object,System.IntPtr)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_mF051C59A4536E246F8D503B6C2AFD4A633CF27E3_gshared (Func_1_t795BA1461C14377291BD8B37CC2DF979C31BF318* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
-// System.Void System.Collections.Generic.Dictionary`2<System.Int32,System.Object>::set_Item(TKey,TValue)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2_set_Item_m2888D71A14F2B8510102F24FEE90552E91B124C1_gshared (Dictionary_2_tA75D1125AC9BE8F005BA9B868B373398E643C907* __this, int32_t ___key0, RuntimeObject* ___value1, const RuntimeMethod* method) ;
+// System.Void System.Collections.Generic.Dictionary`2<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::.ctor(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2__ctor_mA5BF8973642D67EF56303F2867C75190756C3012_gshared (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E* __this, int32_t ___capacity0, const RuntimeMethod* method) ;
+// System.Boolean System.Nullable`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericStructType>::get_HasValue()
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Nullable_1_get_HasValue_m14F273FB376DF00D727434CDCD28AB4EDCC14C3C_gshared_inline (Nullable_1_t71C4EA4E848DBD7A4A97704069FB951159A3A339* __this, const RuntimeMethod* method) ;
+// T System.Nullable`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericStructType>::get_Value()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Nullable_1_get_Value_mA083C4D9192050DC38513BDD9D364C5C68A3A675_gshared (Nullable_1_t71C4EA4E848DBD7A4A97704069FB951159A3A339* __this, Il2CppFullySharedGenericStruct* il2cppRetVal, const RuntimeMethod* method) ;
+// System.Void System.Nullable`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericStructType>::.ctor(T)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Nullable_1__ctor_m4257D7FF23A495D1B204F20330FBDED58248E4CC_gshared (Nullable_1_t71C4EA4E848DBD7A4A97704069FB951159A3A339* __this, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericStructType*/Il2CppFullySharedGenericStruct ___value0, const RuntimeMethod* method) ;
+// T System.Nullable`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericStructType>::GetValueOrDefault()
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Nullable_1_GetValueOrDefault_mC057FBD944AF068B90EBDD0B496231A01B2A4228_gshared_inline (Nullable_1_t71C4EA4E848DBD7A4A97704069FB951159A3A339* __this, Il2CppFullySharedGenericStruct* il2cppRetVal, const RuntimeMethod* method) ;
+// System.Void System.Collections.Generic.Dictionary`2<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::Clear()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2_Clear_m935B3F117860376DC854C9E0C80CBD99BE77EEA4_gshared (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E* __this, const RuntimeMethod* method) ;
+// System.Boolean System.Collections.Generic.Dictionary`2<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::TryGetValue(TKey,TValue&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Dictionary_2_TryGetValue_m7519D765EAF1E8A7D3137C2F1B7B3A01D15A1692_gshared (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E* __this, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny ___key0, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType&*/Il2CppFullySharedGenericAny* ___value1, const RuntimeMethod* method) ;
+// System.Void System.Collections.Generic.Dictionary`2<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::Add(TKey,TValue)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2_Add_m54D479280472DEA042DB3933AF547E666B017333_gshared (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E* __this, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny ___key0, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny ___value1, const RuntimeMethod* method) ;
+// System.Void System.Collections.Generic.Dictionary`2<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2__ctor_m7745B6ED71E47C95E1BFCE647C4F026A404C668F_gshared (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E* __this, const RuntimeMethod* method) ;
+// System.Void System.Func`3<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::.ctor(System.Object,System.IntPtr)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_3__ctor_m3D53118DAA71CFFC80A4B21073B54F3C4EFA1C68_gshared (Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
+// System.Void System.Collections.Generic.Dictionary`2<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::.ctor(System.Int32,System.Collections.Generic.IEqualityComparer`1<TKey>)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2__ctor_mCC4C1AFB623AE154F67437E7FC549449FF598526_gshared (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E* __this, int32_t ___capacity0, RuntimeObject* ___comparer1, const RuntimeMethod* method) ;
+// Sirenix.Serialization.Buffer`1<T> Sirenix.Serialization.Buffer`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::Claim(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Buffer_1_t9305E48C1081F65E6FA395EC749581159B828AE2* Buffer_1_Claim_mFF67366C1629B13CBB54F2CA9B19C44B7A7617D2_gshared (int32_t ___minimumCapacity0, const RuntimeMethod* method) ;
+// T[] Sirenix.Serialization.Buffer`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::get_Array()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR __Il2CppFullySharedGenericTypeU5BU5D_tCAB6D060972DD49223A834B7EEFEB9FE2D003BEC* Buffer_1_get_Array_m0B2F22DEEB86DAB9DCE5615C8629D3485667A1F2_gshared (Buffer_1_t9305E48C1081F65E6FA395EC749581159B828AE2* __this, const RuntimeMethod* method) ;
+// System.Int32 System.Collections.Generic.Dictionary`2<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::get_Count()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Dictionary_2_get_Count_mBB454C6743410D3E06D44D494D4D6FF4CBBBDB1E_gshared (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E* __this, const RuntimeMethod* method) ;
+// System.Void System.Collections.Generic.Dictionary`2<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::.ctor(System.Collections.Generic.IEqualityComparer`1<TKey>)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2__ctor_m244D396B16E7F73DE815F4FFA6F35DD89B6ED7CB_gshared (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E* __this, RuntimeObject* ___comparer0, const RuntimeMethod* method) ;
+// System.Void System.Action`3<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::.ctor(System.Object,System.IntPtr)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_3__ctor_mFC076EF2A48CF6C01932E82D2F23489658D5D9B4_gshared (Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
+// System.Void System.Action`2<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::.ctor(System.Object,System.IntPtr)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_2__ctor_m8E9B7F6EE50FEF26FF7537F554B4F5E434F70550_gshared (Action_2_t1D42C7D8DCD2DEB7C556FB3783F0EDAFF694E5E8* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
+// System.Void System.Func`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::.ctor(System.Object,System.IntPtr)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_mC73A4FCEBBAB90CB7B7AB16321F3F98FBBF12596_gshared (Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method) ;
+// System.Void System.Collections.Generic.Dictionary`2<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType,Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::set_Item(TKey,TValue)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2_set_Item_m4C6841170DD11AED683D2D71919F362A4CFF4A80_gshared (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E* __this, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny ___key0, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny ___value1, const RuntimeMethod* method) ;
 
 // System.Void Sirenix.Serialization.UnitySerializationUtility::DeserializeUnityObject(UnityEngine.Object,Sirenix.Serialization.SerializationData&,Sirenix.Serialization.DeserializationContext)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnitySerializationUtility_DeserializeUnityObject_m5D0CF65DFB023001EA79153750F804F6445483C1 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___unityObject0, SerializationData_t0C593262DAB97EC0A16615AA7A79A305E1851CD1* ___data1, DeserializationContext_t4DBD446D4880A092A2824DFC21E2ECAE53CD86C1* ___context2, const RuntimeMethod* method) ;
@@ -3354,7 +3214,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Version_get_Revision_mB8A
 // System.Void Sirenix.Serialization.MinimalBaseFormatter`1<System.Version>::.ctor()
 inline void MinimalBaseFormatter_1__ctor_m0DB47FB3EADF38B454C555A787AED9B9E6327DEE (MinimalBaseFormatter_1_tC3BEE11E582EA0034DCEDB44AFE4179D6EE39F1C* __this, const RuntimeMethod* method)
 {
-	((  void (*) (MinimalBaseFormatter_1_tC3BEE11E582EA0034DCEDB44AFE4179D6EE39F1C*, const RuntimeMethod*))MinimalBaseFormatter_1__ctor_mDCFDA2DCF6B3461FEFFA2D43F86AAFC916D2F6B1_gshared)(__this, method);
+	((  void (*) (MinimalBaseFormatter_1_tD91F3F7F7C6E09EF06239BE0B9BBE3E091B1E1E1*, const RuntimeMethod*))MinimalBaseFormatter_1__ctor_m0012B397062EF411803707ACAB1B287BD4D68CDD_gshared)((MinimalBaseFormatter_1_tD91F3F7F7C6E09EF06239BE0B9BBE3E091B1E1E1*)__this, method);
 }
 // System.Void System.Attribute::.ctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Attribute__ctor_m79ED1BF1EE36D1E417BA89A0D9F91F8AAD8D19E2 (Attribute_tFDA8EFEFB0711976D22474794576DAF28F7440AA* __this, const RuntimeMethod* method) ;
@@ -3438,33 +3298,37 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SerializationContext__ctor_mC0DD030F6C49
 // System.Void System.Collections.Generic.Dictionary`2<System.Int32,System.Type>::.ctor(System.Int32)
 inline void Dictionary_2__ctor_mA339D37D2AF31AAB632B901570863BD0E283FADB (Dictionary_2_tBDD02A03073B49D98E514F9FDE894CE445376A36* __this, int32_t ___capacity0, const RuntimeMethod* method)
 {
-	((  void (*) (Dictionary_2_tBDD02A03073B49D98E514F9FDE894CE445376A36*, int32_t, const RuntimeMethod*))Dictionary_2__ctor_m2E996E8E97DFC188B4E8854C11A9C82B16EDD2CE_gshared)(__this, ___capacity0, method);
+	((  void (*) (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*, int32_t, const RuntimeMethod*))Dictionary_2__ctor_mA5BF8973642D67EF56303F2867C75190756C3012_gshared)((Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*)__this, ___capacity0, method);
 }
 // System.Void Sirenix.Serialization.BaseDataReader::.ctor(System.IO.Stream,Sirenix.Serialization.DeserializationContext)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseDataReader__ctor_mE60E64F5FFFEEBEA52778E463E5000688E8A7261 (BaseDataReader_tC71D38CF580346A6574D20C6243FCC8B6C127032* __this, Stream_tF844051B786E8F7F4244DBD218D74E8617B9A2DE* ___stream0, DeserializationContext_t4DBD446D4880A092A2824DFC21E2ECAE53CD86C1* ___context1, const RuntimeMethod* method) ;
 // System.Boolean System.Nullable`1<Sirenix.Serialization.EntryType>::get_HasValue()
 inline bool Nullable_1_get_HasValue_m23891FFD9347BCD1C13E15689540A9C0BDC48F2A_inline (Nullable_1_t788BB7CC4317C0A7E4D0D6642E6C1E44FF20A230* __this, const RuntimeMethod* method)
 {
-	return ((  bool (*) (Nullable_1_t788BB7CC4317C0A7E4D0D6642E6C1E44FF20A230*, const RuntimeMethod*))Nullable_1_get_HasValue_m734A0AE90EE3BDA701FBF3A60B4A485A0B1568A0_gshared_inline)(__this, method);
+	return ((  bool (*) (Nullable_1_t71C4EA4E848DBD7A4A97704069FB951159A3A339*, const RuntimeMethod*))Nullable_1_get_HasValue_m14F273FB376DF00D727434CDCD28AB4EDCC14C3C_gshared_inline)((Nullable_1_t71C4EA4E848DBD7A4A97704069FB951159A3A339*)__this, method);
 }
 // T System.Nullable`1<Sirenix.Serialization.EntryType>::get_Value()
 inline uint8_t Nullable_1_get_Value_m237F981F26FE18C7803A69AEBFEB476B7FA517A6 (Nullable_1_t788BB7CC4317C0A7E4D0D6642E6C1E44FF20A230* __this, const RuntimeMethod* method)
 {
-	return ((  uint8_t (*) (Nullable_1_t788BB7CC4317C0A7E4D0D6642E6C1E44FF20A230*, const RuntimeMethod*))Nullable_1_get_Value_mE5CC6A25131BC0BB308AAE86D96DDB117B448650_gshared)(__this, method);
+	uint8_t il2cppRetVal;
+	((  void (*) (Nullable_1_t71C4EA4E848DBD7A4A97704069FB951159A3A339*, Il2CppFullySharedGenericStruct*, const RuntimeMethod*))Nullable_1_get_Value_mA083C4D9192050DC38513BDD9D364C5C68A3A675_gshared)((Nullable_1_t71C4EA4E848DBD7A4A97704069FB951159A3A339*)__this, (Il2CppFullySharedGenericStruct*)&il2cppRetVal, method);
+	return il2cppRetVal;
 }
 // System.Boolean Sirenix.Serialization.BinaryDataReader::HasBufferData(System.Int32)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool BinaryDataReader_HasBufferData_m41C2D27D8130E3F93BB42D167A173D73AEC831EC_inline (BinaryDataReader_t58425E92734B0E416A090AAA04783F62370CC950* __this, int32_t ___amount0, const RuntimeMethod* method) ;
 // System.Void System.Nullable`1<Sirenix.Serialization.EntryType>::.ctor(T)
 inline void Nullable_1__ctor_m362786F7B464E87AA153312B4DBC0EA7FD2B2678 (Nullable_1_t788BB7CC4317C0A7E4D0D6642E6C1E44FF20A230* __this, uint8_t ___value0, const RuntimeMethod* method)
 {
-	((  void (*) (Nullable_1_t788BB7CC4317C0A7E4D0D6642E6C1E44FF20A230*, uint8_t, const RuntimeMethod*))Nullable_1__ctor_m812145458B72A334FF7E947D6CE70F4CE330BEBD_gshared)(__this, ___value0, method);
+	((  void (*) (Nullable_1_t71C4EA4E848DBD7A4A97704069FB951159A3A339*, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericStructType*/Il2CppFullySharedGenericStruct, const RuntimeMethod*))Nullable_1__ctor_m4257D7FF23A495D1B204F20330FBDED58248E4CC_gshared)((Nullable_1_t71C4EA4E848DBD7A4A97704069FB951159A3A339*)__this, (Il2CppFullySharedGenericStruct)&___value0, method);
 }
 // System.String Sirenix.Serialization.BinaryDataReader::ReadStringValue()
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR String_t* BinaryDataReader_ReadStringValue_m4650D9136957EC35AA62FD78E3FD4C28E68221AE_inline (BinaryDataReader_t58425E92734B0E416A090AAA04783F62370CC950* __this, const RuntimeMethod* method) ;
 // T System.Nullable`1<Sirenix.Serialization.EntryType>::GetValueOrDefault()
 inline uint8_t Nullable_1_GetValueOrDefault_m21344D34609DB4CB9C168BFF53FEB0C6A2043D01_inline (Nullable_1_t788BB7CC4317C0A7E4D0D6642E6C1E44FF20A230* __this, const RuntimeMethod* method)
 {
-	return ((  uint8_t (*) (Nullable_1_t788BB7CC4317C0A7E4D0D6642E6C1E44FF20A230*, const RuntimeMethod*))Nullable_1_GetValueOrDefault_m6AF3AF6DB9554746726B5BB6D718859A894BD12E_gshared_inline)(__this, method);
+	uint8_t il2cppRetVal;
+	((  void (*) (Nullable_1_t71C4EA4E848DBD7A4A97704069FB951159A3A339*, Il2CppFullySharedGenericStruct*, const RuntimeMethod*))Nullable_1_GetValueOrDefault_mC057FBD944AF068B90EBDD0B496231A01B2A4228_gshared_inline)((Nullable_1_t71C4EA4E848DBD7A4A97704069FB951159A3A339*)__this, (Il2CppFullySharedGenericStruct*)&il2cppRetVal, method);
+	return il2cppRetVal;
 }
 // System.Void Sirenix.Serialization.BaseDataReaderWriter::PushArray()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseDataReaderWriter_PushArray_m8BF5F98CAE8B5B4F75FE25FD61614A06D4FC3E88 (BaseDataReaderWriter_t6E01CAB6D1FDB719471212A97600371E4BE5D05C* __this, const RuntimeMethod* method) ;
@@ -3531,7 +3395,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseDataReader_PrepareNewSerializationSe
 // System.Void System.Collections.Generic.Dictionary`2<System.Int32,System.Type>::Clear()
 inline void Dictionary_2_Clear_mD2A299D7FCFAF438D826D50A593118886D116BDD (Dictionary_2_tBDD02A03073B49D98E514F9FDE894CE445376A36* __this, const RuntimeMethod* method)
 {
-	((  void (*) (Dictionary_2_tBDD02A03073B49D98E514F9FDE894CE445376A36*, const RuntimeMethod*))Dictionary_2_Clear_mE1EFF7C68491EE07D21EE9924475A559BF0A4773_gshared)(__this, method);
+	((  void (*) (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*, const RuntimeMethod*))Dictionary_2_Clear_m935B3F117860376DC854C9E0C80CBD99BE77EEA4_gshared)((Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*)__this, method);
 }
 // System.Void Sirenix.Serialization.Utilities.Unsafe.UnsafeUtilities::MemoryCopy(System.Void*,System.Void*,System.Int32)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnsafeUtilities_MemoryCopy_m7DE92F22044548463826DD701F9BC90C8F4F9226 (void* ___from0, void* ___to1, int32_t ___bytes2, const RuntimeMethod* method) ;
@@ -3550,7 +3414,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void BinaryDataReader_SkipStringV
 // System.Boolean System.Collections.Generic.Dictionary`2<System.Int32,System.Type>::TryGetValue(TKey,TValue&)
 inline bool Dictionary_2_TryGetValue_m03B727E2D5CC80573746CF6077AF72B4BA96CC3C (Dictionary_2_tBDD02A03073B49D98E514F9FDE894CE445376A36* __this, int32_t ___key0, Type_t** ___value1, const RuntimeMethod* method)
 {
-	return ((  bool (*) (Dictionary_2_tBDD02A03073B49D98E514F9FDE894CE445376A36*, int32_t, Type_t**, const RuntimeMethod*))Dictionary_2_TryGetValue_m7316301B8CF47FB538886B229B2749EC160B9D5C_gshared)(__this, ___key0, ___value1, method);
+	return ((  bool (*) (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType&*/Il2CppFullySharedGenericAny*, const RuntimeMethod*))Dictionary_2_TryGetValue_m7519D765EAF1E8A7D3137C2F1B7B3A01D15A1692_gshared)((Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*)__this, (Il2CppFullySharedGenericAny)&___key0, (Il2CppFullySharedGenericAny*)___value1, method);
 }
 // System.Int32 Sirenix.Serialization.BaseDataReader::get_CurrentNodeDepth()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t BaseDataReader_get_CurrentNodeDepth_mC3209339F88989B9BEED0DC4B0D63691AFEA034B (BaseDataReader_tC71D38CF580346A6574D20C6243FCC8B6C127032* __this, const RuntimeMethod* method) ;
@@ -3559,7 +3423,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* String_Concat_m33F64A335B610F305AEA
 // System.Void System.Collections.Generic.Dictionary`2<System.Int32,System.Type>::Add(TKey,TValue)
 inline void Dictionary_2_Add_mEE9EBB858749DAB172DB7E7255A1485A85EFE6D4 (Dictionary_2_tBDD02A03073B49D98E514F9FDE894CE445376A36* __this, int32_t ___key0, Type_t* ___value1, const RuntimeMethod* method)
 {
-	((  void (*) (Dictionary_2_tBDD02A03073B49D98E514F9FDE894CE445376A36*, int32_t, Type_t*, const RuntimeMethod*))Dictionary_2_Add_mAF1EF7DA16BD70E252EA5C4B0F74DE519A02CBCD_gshared)(__this, ___key0, ___value1, method);
+	((  void (*) (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny, const RuntimeMethod*))Dictionary_2_Add_m54D479280472DEA042DB3933AF547E666B017333_gshared)((Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*)__this, (Il2CppFullySharedGenericAny)&___key0, (Il2CppFullySharedGenericAny)___value1, method);
 }
 // System.Void Sirenix.Serialization.BinaryDataReader::SkipPeekedEntryContent()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BinaryDataReader_SkipPeekedEntryContent_mBDAFD0A4DB1B5B1EB80A900BE49571AE7757FE25 (BinaryDataReader_t58425E92734B0E416A090AAA04783F62370CC950* __this, const RuntimeMethod* method) ;
@@ -3568,82 +3432,82 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BinaryDataReader_ReadEntireStreamToBuffe
 // System.Void System.Collections.Generic.Dictionary`2<System.Type,System.Delegate>::.ctor()
 inline void Dictionary_2__ctor_m20E5ED39DC8B6FDB08C4BC6D97598BD4D4AABB09 (Dictionary_2_tAAED98748F4718BFB4C314B73AE3454912768DCE* __this, const RuntimeMethod* method)
 {
-	((  void (*) (Dictionary_2_tAAED98748F4718BFB4C314B73AE3454912768DCE*, const RuntimeMethod*))Dictionary_2__ctor_m5B32FBC624618211EB461D59CFBB10E987FD1329_gshared)(__this, method);
+	((  void (*) (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*, const RuntimeMethod*))Dictionary_2__ctor_m7745B6ED71E47C95E1BFCE647C4F026A404C668F_gshared)((Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*)__this, method);
 }
 // System.Void System.Func`3<System.Byte[],System.Int32,System.Char>::.ctor(System.Object,System.IntPtr)
 inline void Func_3__ctor_m0F2C1011A9F69F008C434D141279D1C948C8DCE4 (Func_3_t9CEE8DABF47355446BA1726A7C03173EBC085BE5* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_3_t9CEE8DABF47355446BA1726A7C03173EBC085BE5*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_mB74B512421B3654E91865BF768DAB07FBF8519F7_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m3D53118DAA71CFFC80A4B21073B54F3C4EFA1C68_gshared)((Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Collections.Generic.Dictionary`2<System.Type,System.Delegate>::Add(TKey,TValue)
 inline void Dictionary_2_Add_m9765F735045917CA4F3E642DA4F1FF58023A48FD (Dictionary_2_tAAED98748F4718BFB4C314B73AE3454912768DCE* __this, Type_t* ___key0, Delegate_t* ___value1, const RuntimeMethod* method)
 {
-	((  void (*) (Dictionary_2_tAAED98748F4718BFB4C314B73AE3454912768DCE*, Type_t*, Delegate_t*, const RuntimeMethod*))Dictionary_2_Add_m93FFFABE8FCE7FA9793F0915E2A8842C7CD0C0C1_gshared)(__this, ___key0, ___value1, method);
+	((  void (*) (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny, const RuntimeMethod*))Dictionary_2_Add_m54D479280472DEA042DB3933AF547E666B017333_gshared)((Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*)__this, (Il2CppFullySharedGenericAny)___key0, (Il2CppFullySharedGenericAny)___value1, method);
 }
 // System.Void System.Func`3<System.Byte[],System.Int32,System.Byte>::.ctor(System.Object,System.IntPtr)
 inline void Func_3__ctor_mC5ABE2BA58A6F86B42F4097827CC097DF199C570 (Func_3_tCD1D837F04F5A7B055200A48ED054A91DBA997DE* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_3_tCD1D837F04F5A7B055200A48ED054A91DBA997DE*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m764A470D4D8ED05BEB4D043CBD7D29D2B77DFF5B_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m3D53118DAA71CFFC80A4B21073B54F3C4EFA1C68_gshared)((Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`3<System.Byte[],System.Int32,System.SByte>::.ctor(System.Object,System.IntPtr)
 inline void Func_3__ctor_mDA575EC3DA94837F8718C9283E5D4B752781D503 (Func_3_tC2A21B18D73205FB1F0C80B58CB923890AD6A76F* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_3_tC2A21B18D73205FB1F0C80B58CB923890AD6A76F*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_mE794A39045517A64185F7C9BA859494A112E4EB1_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m3D53118DAA71CFFC80A4B21073B54F3C4EFA1C68_gshared)((Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`3<System.Byte[],System.Int32,System.Boolean>::.ctor(System.Object,System.IntPtr)
 inline void Func_3__ctor_mEE752865962BC9AFB09A7835E12EF8A5BB8B74E9 (Func_3_tD92FE9D1F2D4C35B554AF0942D4E50BC4AFB00A4* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_3_tD92FE9D1F2D4C35B554AF0942D4E50BC4AFB00A4*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_mAA60567A65656DD2E82EBEA860B1BF5FD07CF435_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m3D53118DAA71CFFC80A4B21073B54F3C4EFA1C68_gshared)((Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`3<System.Byte[],System.Int32,System.Int16>::.ctor(System.Object,System.IntPtr)
 inline void Func_3__ctor_m249C078CC2114CB583301CF0FC436F07DE56D4CC (Func_3_t2114B882AFDD57EE79313C18D95D37D460A369B6* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_3_t2114B882AFDD57EE79313C18D95D37D460A369B6*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_mB79099E9ED94D7272F2F9DD0C729844EBAB82D24_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m3D53118DAA71CFFC80A4B21073B54F3C4EFA1C68_gshared)((Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`3<System.Byte[],System.Int32,System.Int32>::.ctor(System.Object,System.IntPtr)
 inline void Func_3__ctor_mB8B6D33F2F28F409BFA5078AF4A00C83F786ED18 (Func_3_tE2358BA2A7256DF393C2698621CAC4E6D0802F79* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_3_tE2358BA2A7256DF393C2698621CAC4E6D0802F79*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m03DA669B0EFE786DECFBC2F7CF70314CE0705ADB_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m3D53118DAA71CFFC80A4B21073B54F3C4EFA1C68_gshared)((Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`3<System.Byte[],System.Int32,System.Int64>::.ctor(System.Object,System.IntPtr)
 inline void Func_3__ctor_m930FDBB71BDD1852C644AF7A43522875E308F872 (Func_3_t27997AC431DD02B05CF2667961B3A4842D0A7F46* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_3_t27997AC431DD02B05CF2667961B3A4842D0A7F46*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m432906418DC76DB49BDBD97CEE51FE75B7D2A6DA_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m3D53118DAA71CFFC80A4B21073B54F3C4EFA1C68_gshared)((Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`3<System.Byte[],System.Int32,System.UInt16>::.ctor(System.Object,System.IntPtr)
 inline void Func_3__ctor_mB20F9F642A850F970361E27DF181DA13127232CB (Func_3_t73D0E383646A61A38AD0167F90D52DDB3161F17A* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_3_t73D0E383646A61A38AD0167F90D52DDB3161F17A*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m8437D36AEB0519AC99C6F0A485442F91C1E2DF06_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m3D53118DAA71CFFC80A4B21073B54F3C4EFA1C68_gshared)((Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`3<System.Byte[],System.Int32,System.UInt32>::.ctor(System.Object,System.IntPtr)
 inline void Func_3__ctor_m86D18BBDE4472876211922C134F2E5962B651BD0 (Func_3_t3A64F68F62266500C12C9F68160798259ECCB10A* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_3_t3A64F68F62266500C12C9F68160798259ECCB10A*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_mB5C2C31B2C04160EC9E2BEF87EA39AB0F679536B_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m3D53118DAA71CFFC80A4B21073B54F3C4EFA1C68_gshared)((Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`3<System.Byte[],System.Int32,System.UInt64>::.ctor(System.Object,System.IntPtr)
 inline void Func_3__ctor_mF8D5E590A0F073273158DA54193F538EA752DF37 (Func_3_tC84903FFAFB97703E2C7BE3F27247ACE29E6CC4F* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_3_tC84903FFAFB97703E2C7BE3F27247ACE29E6CC4F*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m226E7242992151290A9EC5931127188D555AE5F0_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m3D53118DAA71CFFC80A4B21073B54F3C4EFA1C68_gshared)((Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`3<System.Byte[],System.Int32,System.Decimal>::.ctor(System.Object,System.IntPtr)
 inline void Func_3__ctor_m855A23373D9FCB5A4ECA3CE3C68869C3CAF6A322 (Func_3_tD24E0EEE79A2D53F95A8A47C30AC3FB7E5A64076* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_3_tD24E0EEE79A2D53F95A8A47C30AC3FB7E5A64076*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_mDF3CCB5E1E6A6213A7F3BC847BC885D6B0AC9015_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m3D53118DAA71CFFC80A4B21073B54F3C4EFA1C68_gshared)((Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`3<System.Byte[],System.Int32,System.Single>::.ctor(System.Object,System.IntPtr)
 inline void Func_3__ctor_m7C6D3D3FA9D95CFB0CB053879FE36B7740E6C851 (Func_3_t38354128C1271F20AEA94D213AA3CF033050523D* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_3_t38354128C1271F20AEA94D213AA3CF033050523D*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m6F430FC7F7B6F34BEF6C85334FDE889B951F1E9B_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m3D53118DAA71CFFC80A4B21073B54F3C4EFA1C68_gshared)((Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`3<System.Byte[],System.Int32,System.Double>::.ctor(System.Object,System.IntPtr)
 inline void Func_3__ctor_m97BA2081E99F7774DC41900A223F56C7C0518CB5 (Func_3_tE4F3B25C4FF345D7B584DFCC7A7D71604B33E107* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_3_tE4F3B25C4FF345D7B584DFCC7A7D71604B33E107*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m5582087535657823C74B9D727FCB4E13C646399C_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m3D53118DAA71CFFC80A4B21073B54F3C4EFA1C68_gshared)((Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`3<System.Byte[],System.Int32,System.Guid>::.ctor(System.Object,System.IntPtr)
 inline void Func_3__ctor_mB741EF7C47B790E4048C99EEDCE2903C653F9549 (Func_3_t417C5EFB3D6341B4A453E81028DF0C80E58D0E21* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_3_t417C5EFB3D6341B4A453E81028DF0C80E58D0E21*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_mE6B41BF4209034741C69456E149987276948243B_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_3__ctor_m3D53118DAA71CFFC80A4B21073B54F3C4EFA1C68_gshared)((Func_3_t009E60D2B88B8B844FB90881977A21CC70E688A4*)__this, ___object0, ___method1, method);
 }
 // System.Void Sirenix.Serialization.BinaryDataReader/<>c::.ctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__ctor_m64539FD910D9640C8870E399A974F5A7164FAC30 (U3CU3Ec_tC26B55598E5219BCA559834FC6A1A568FD4734DB* __this, const RuntimeMethod* method) ;
@@ -3652,7 +3516,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint16_t ProperBitConverter_ToUInt16_m60D4B6D
 // System.Void System.Collections.Generic.Dictionary`2<System.Type,System.Int32>::.ctor(System.Int32,System.Collections.Generic.IEqualityComparer`1<TKey>)
 inline void Dictionary_2__ctor_mA2E6319A50FEDE0C6103A61D65408E1986DE2B04 (Dictionary_2_t384D2A0FF42BF1302A3F513FC32DB105F1CD5455* __this, int32_t ___capacity0, RuntimeObject* ___comparer1, const RuntimeMethod* method)
 {
-	((  void (*) (Dictionary_2_t384D2A0FF42BF1302A3F513FC32DB105F1CD5455*, int32_t, RuntimeObject*, const RuntimeMethod*))Dictionary_2__ctor_m4C802F609D63FAB6D65E2A9A52080657CCD56319_gshared)(__this, ___capacity0, ___comparer1, method);
+	((  void (*) (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*, int32_t, RuntimeObject*, const RuntimeMethod*))Dictionary_2__ctor_mCC4C1AFB623AE154F67437E7FC549449FF598526_gshared)((Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*)__this, ___capacity0, (RuntimeObject*)___comparer1, method);
 }
 // System.Void Sirenix.Serialization.BaseDataWriter::.ctor(System.IO.Stream,Sirenix.Serialization.SerializationContext)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseDataWriter__ctor_m90FB89BAE181AAFA020FEC31CFB66B131F3693BD (BaseDataWriter_tAF499355D91DBD2870E7CE35D9D520C9373BADD2* __this, Stream_tF844051B786E8F7F4244DBD218D74E8617B9A2DE* ___stream0, SerializationContext_t7D96C70BEDCF9F425639DEB95D3367185D269659* ___context1, const RuntimeMethod* method) ;
@@ -3671,12 +3535,14 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool BinaryDataWriter_TryEnsureBu
 // Sirenix.Serialization.Buffer`1<T> Sirenix.Serialization.Buffer`1<System.Byte>::Claim(System.Int32)
 inline Buffer_1_tFAFE8746763029E82FE19241FCF37800F3C02125* Buffer_1_Claim_m0AB82D6D8548E2FF8F251CBD2EF57DDB346BFE48 (int32_t ___minimumCapacity0, const RuntimeMethod* method)
 {
-	return ((  Buffer_1_tFAFE8746763029E82FE19241FCF37800F3C02125* (*) (int32_t, const RuntimeMethod*))Buffer_1_Claim_m0AB82D6D8548E2FF8F251CBD2EF57DDB346BFE48_gshared)(___minimumCapacity0, method);
+	Buffer_1_t9305E48C1081F65E6FA395EC749581159B828AE2* il2cppRetVal = ((  Buffer_1_t9305E48C1081F65E6FA395EC749581159B828AE2* (*) (int32_t, const RuntimeMethod*))Buffer_1_Claim_mFF67366C1629B13CBB54F2CA9B19C44B7A7617D2_gshared)(___minimumCapacity0, method);
+	return (Buffer_1_tFAFE8746763029E82FE19241FCF37800F3C02125*)il2cppRetVal;
 }
 // T[] Sirenix.Serialization.Buffer`1<System.Byte>::get_Array()
 inline ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* Buffer_1_get_Array_mC158A19079CD22224796739FDB2F70F90475C7E2 (Buffer_1_tFAFE8746763029E82FE19241FCF37800F3C02125* __this, const RuntimeMethod* method)
 {
-	return ((  ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* (*) (Buffer_1_tFAFE8746763029E82FE19241FCF37800F3C02125*, const RuntimeMethod*))Buffer_1_get_Array_mC158A19079CD22224796739FDB2F70F90475C7E2_gshared)(__this, method);
+	__Il2CppFullySharedGenericTypeU5BU5D_tCAB6D060972DD49223A834B7EEFEB9FE2D003BEC* il2cppRetVal = ((  __Il2CppFullySharedGenericTypeU5BU5D_tCAB6D060972DD49223A834B7EEFEB9FE2D003BEC* (*) (Buffer_1_t9305E48C1081F65E6FA395EC749581159B828AE2*, const RuntimeMethod*))Buffer_1_get_Array_m0B2F22DEEB86DAB9DCE5615C8629D3485667A1F2_gshared)((Buffer_1_t9305E48C1081F65E6FA395EC749581159B828AE2*)__this, method);
+	return (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cppRetVal;
 }
 // System.Void Sirenix.Serialization.Utilities.Unsafe.UnsafeUtilities::MemoryCopy(System.Object,System.Object,System.Int32,System.Int32,System.Int32)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnsafeUtilities_MemoryCopy_mCCAE151CD112F9CFFE768D1AB7A5F61C21E4899F (RuntimeObject* ___from0, RuntimeObject* ___to1, int32_t ___byteCount2, int32_t ___fromByteOffset3, int32_t ___toByteOffset4, const RuntimeMethod* method) ;
@@ -3723,22 +3589,22 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseDataWriter_PrepareNewSerializationSe
 // System.Void System.Collections.Generic.Dictionary`2<System.Type,System.Int32>::Clear()
 inline void Dictionary_2_Clear_m1E0BB398DE5617721552A4372C09547826FB46DC (Dictionary_2_t384D2A0FF42BF1302A3F513FC32DB105F1CD5455* __this, const RuntimeMethod* method)
 {
-	((  void (*) (Dictionary_2_t384D2A0FF42BF1302A3F513FC32DB105F1CD5455*, const RuntimeMethod*))Dictionary_2_Clear_m931E25EF2557C3A386E4B9DC8D8212B7D9D3F5AE_gshared)(__this, method);
+	((  void (*) (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*, const RuntimeMethod*))Dictionary_2_Clear_m935B3F117860376DC854C9E0C80CBD99BE77EEA4_gshared)((Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*)__this, method);
 }
 // System.Boolean System.Collections.Generic.Dictionary`2<System.Type,System.Int32>::TryGetValue(TKey,TValue&)
 inline bool Dictionary_2_TryGetValue_m3EF4F6B2EC138E3A20BD7549CE6DE54B0608CD4D (Dictionary_2_t384D2A0FF42BF1302A3F513FC32DB105F1CD5455* __this, Type_t* ___key0, int32_t* ___value1, const RuntimeMethod* method)
 {
-	return ((  bool (*) (Dictionary_2_t384D2A0FF42BF1302A3F513FC32DB105F1CD5455*, Type_t*, int32_t*, const RuntimeMethod*))Dictionary_2_TryGetValue_m4B8EE45640C70BBFD6F3EFF1040983404C098342_gshared)(__this, ___key0, ___value1, method);
+	return ((  bool (*) (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType&*/Il2CppFullySharedGenericAny*, const RuntimeMethod*))Dictionary_2_TryGetValue_m7519D765EAF1E8A7D3137C2F1B7B3A01D15A1692_gshared)((Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*)__this, (Il2CppFullySharedGenericAny)___key0, (Il2CppFullySharedGenericAny*)___value1, method);
 }
 // System.Int32 System.Collections.Generic.Dictionary`2<System.Type,System.Int32>::get_Count()
 inline int32_t Dictionary_2_get_Count_m26AF4CF95FC733071C419A03190EF6B2F9706579 (Dictionary_2_t384D2A0FF42BF1302A3F513FC32DB105F1CD5455* __this, const RuntimeMethod* method)
 {
-	return ((  int32_t (*) (Dictionary_2_t384D2A0FF42BF1302A3F513FC32DB105F1CD5455*, const RuntimeMethod*))Dictionary_2_get_Count_mEE80B960C3B902E5FB4D2458CEB323B68A954926_gshared)(__this, method);
+	return ((  int32_t (*) (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*, const RuntimeMethod*))Dictionary_2_get_Count_mBB454C6743410D3E06D44D494D4D6FF4CBBBDB1E_gshared)((Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*)__this, method);
 }
 // System.Void System.Collections.Generic.Dictionary`2<System.Type,System.Int32>::Add(TKey,TValue)
 inline void Dictionary_2_Add_mD091A436B1895D7A2D6C1848C6C84487C5873904 (Dictionary_2_t384D2A0FF42BF1302A3F513FC32DB105F1CD5455* __this, Type_t* ___key0, int32_t ___value1, const RuntimeMethod* method)
 {
-	((  void (*) (Dictionary_2_t384D2A0FF42BF1302A3F513FC32DB105F1CD5455*, Type_t*, int32_t, const RuntimeMethod*))Dictionary_2_Add_m63897227AFA7035F1772315ABBBE7FD0A250E10C_gshared)(__this, ___key0, ___value1, method);
+	((  void (*) (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny, const RuntimeMethod*))Dictionary_2_Add_m54D479280472DEA042DB3933AF547E666B017333_gshared)((Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*)__this, (Il2CppFullySharedGenericAny)___key0, (Il2CppFullySharedGenericAny)&___value1, method);
 }
 // Sirenix.Serialization.SerializationContext Sirenix.Serialization.BaseDataWriter::get_Context()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR SerializationContext_t7D96C70BEDCF9F425639DEB95D3367185D269659* BaseDataWriter_get_Context_m212BD8AD4CEFFABD3CBF7BEA5B66C3FE37FF2EE3 (BaseDataWriter_tAF499355D91DBD2870E7CE35D9D520C9373BADD2* __this, const RuntimeMethod* method) ;
@@ -3753,97 +3619,97 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Exception__ctor_m9B2BD92CD68916245A75109
 // System.Void System.Collections.Generic.Dictionary`2<System.Type,System.Delegate>::.ctor(System.Collections.Generic.IEqualityComparer`1<TKey>)
 inline void Dictionary_2__ctor_m112A1CB923DA2FC5DD778E732387D65BA92A743F (Dictionary_2_tAAED98748F4718BFB4C314B73AE3454912768DCE* __this, RuntimeObject* ___comparer0, const RuntimeMethod* method)
 {
-	((  void (*) (Dictionary_2_tAAED98748F4718BFB4C314B73AE3454912768DCE*, RuntimeObject*, const RuntimeMethod*))Dictionary_2__ctor_mB2760A703784902BE10E873BC760166EC9693D63_gshared)(__this, ___comparer0, method);
+	((  void (*) (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*, RuntimeObject*, const RuntimeMethod*))Dictionary_2__ctor_m244D396B16E7F73DE815F4FFA6F35DD89B6ED7CB_gshared)((Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*)__this, (RuntimeObject*)___comparer0, method);
 }
 // System.Void System.Action`3<System.Byte[],System.Int32,System.Char>::.ctor(System.Object,System.IntPtr)
 inline void Action_3__ctor_m6DE8F052E73E5635AEC54528275E9CA3EBD4F78F (Action_3_t8D91EEEC6F67AE84813CD12EB819858671000DAF* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Action_3_t8D91EEEC6F67AE84813CD12EB819858671000DAF*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_m4C4C4018183042F691761ACFB1C89381253FCE0E_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mFC076EF2A48CF6C01932E82D2F23489658D5D9B4_gshared)((Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Action`3<System.Byte[],System.Int32,System.Byte>::.ctor(System.Object,System.IntPtr)
 inline void Action_3__ctor_mFF654904C35FEAA47E64562CF9391F8446BE871D (Action_3_t6C577DBD836701816846A7A2828A1F69FBFA1FB8* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Action_3_t6C577DBD836701816846A7A2828A1F69FBFA1FB8*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_m7F42878F0FEC928C460AFABE8751F18AAC588675_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mFC076EF2A48CF6C01932E82D2F23489658D5D9B4_gshared)((Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Action`3<System.Byte[],System.Int32,System.SByte>::.ctor(System.Object,System.IntPtr)
 inline void Action_3__ctor_m6FA5B1CD72297ED7E15ABB531C568561A360A66E (Action_3_tDD9B7F86F62343F8C28A64A27E90DD2795981B0D* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Action_3_tDD9B7F86F62343F8C28A64A27E90DD2795981B0D*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_m9DEBC65B3793DDC40524D67A5B8A95FA358ED41F_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mFC076EF2A48CF6C01932E82D2F23489658D5D9B4_gshared)((Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Action`3<System.Byte[],System.Int32,System.Boolean>::.ctor(System.Object,System.IntPtr)
 inline void Action_3__ctor_m9255AD97858C856F8A6A0B033E8E95044409D172 (Action_3_tD6E080F36319CBF6BF1621FF6C67DCA2E608EB98* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Action_3_tD6E080F36319CBF6BF1621FF6C67DCA2E608EB98*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_m5FC968BDD4D60E8A6B682280FEB6C7298C692269_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mFC076EF2A48CF6C01932E82D2F23489658D5D9B4_gshared)((Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Action`3<System.Byte[],System.Int32,System.Int16>::.ctor(System.Object,System.IntPtr)
 inline void Action_3__ctor_mFC7ACC90868EDAA1AABD4A8FEF2274D2871FFADA (Action_3_t786686BB4C5B9AA674CB0020B2BBFF6E155B0ADF* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Action_3_t786686BB4C5B9AA674CB0020B2BBFF6E155B0ADF*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_m0BDF2220874AAB57ABDE668D5B53BA7D7F95CF13_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mFC076EF2A48CF6C01932E82D2F23489658D5D9B4_gshared)((Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Action`3<System.Byte[],System.Int32,System.Int32>::.ctor(System.Object,System.IntPtr)
 inline void Action_3__ctor_m457FAD59A667765DDB23A4BD10F8C83AB782DB90 (Action_3_t9FCE45D8430C8E4546F9417E50E5E511A9A79E4B* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Action_3_t9FCE45D8430C8E4546F9417E50E5E511A9A79E4B*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_m28D618ACD30D378303374C6D5A85A5567573DF39_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mFC076EF2A48CF6C01932E82D2F23489658D5D9B4_gshared)((Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Action`3<System.Byte[],System.Int32,System.Int64>::.ctor(System.Object,System.IntPtr)
 inline void Action_3__ctor_m521E2F3F77D501F976153A405358CB2E88E81423 (Action_3_t0A012FA1577223FF2119D68312CF07EDD705CC57* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Action_3_t0A012FA1577223FF2119D68312CF07EDD705CC57*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mA5ADF620DEB401A96901A4AE70AC41640A8032B3_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mFC076EF2A48CF6C01932E82D2F23489658D5D9B4_gshared)((Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Action`3<System.Byte[],System.Int32,System.UInt16>::.ctor(System.Object,System.IntPtr)
 inline void Action_3__ctor_m4229015BAAB9B5694A9D32A2CF9CB2E54F66C0AF (Action_3_tC9307B24BB0C531145058E18028E296F840CBA67* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Action_3_tC9307B24BB0C531145058E18028E296F840CBA67*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mF187855FBA16F91F85C84371CDE83B2AE18D55F9_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mFC076EF2A48CF6C01932E82D2F23489658D5D9B4_gshared)((Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Action`3<System.Byte[],System.Int32,System.UInt32>::.ctor(System.Object,System.IntPtr)
 inline void Action_3__ctor_m51E15CD0B58E32840831F91412960D296C2F8BF8 (Action_3_tD051CEE665CB7EE31E074DA49DCAE32AD8A5CF53* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Action_3_tD051CEE665CB7EE31E074DA49DCAE32AD8A5CF53*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_m4B202F63DE64CEB898AEA142ACC2C62AB7C217CC_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mFC076EF2A48CF6C01932E82D2F23489658D5D9B4_gshared)((Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Action`3<System.Byte[],System.Int32,System.UInt64>::.ctor(System.Object,System.IntPtr)
 inline void Action_3__ctor_mC9877A206CAE0F4F8B36A9C3E4992A06D46A5564 (Action_3_tC603593BE9AB0D6252D0674BA4A7547AA0FF84E5* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Action_3_tC603593BE9AB0D6252D0674BA4A7547AA0FF84E5*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_m02667367A2C0C091BD5D3BDC1BF0A308FDB3EC9F_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mFC076EF2A48CF6C01932E82D2F23489658D5D9B4_gshared)((Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Action`3<System.Byte[],System.Int32,System.Decimal>::.ctor(System.Object,System.IntPtr)
 inline void Action_3__ctor_mEFCCBED6631119173E5989EACEC131BF15905CEC (Action_3_t6896EA7B8A6394A0DB02C01762B8852C3E16D91C* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Action_3_t6896EA7B8A6394A0DB02C01762B8852C3E16D91C*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mC9475B539BEC00EB58F1067899C0CF6776287443_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mFC076EF2A48CF6C01932E82D2F23489658D5D9B4_gshared)((Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Action`3<System.Byte[],System.Int32,System.Single>::.ctor(System.Object,System.IntPtr)
 inline void Action_3__ctor_m841FAFB89885933D20402444BEDCDE8D7058D98B (Action_3_t99D5BE4BC7F4DDFD6D3A7B8CCCE14638C8E295C0* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Action_3_t99D5BE4BC7F4DDFD6D3A7B8CCCE14638C8E295C0*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mEB13D3C435CC557CB7F0F0392CFA7E3D3F09A199_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mFC076EF2A48CF6C01932E82D2F23489658D5D9B4_gshared)((Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Action`3<System.Byte[],System.Int32,System.Double>::.ctor(System.Object,System.IntPtr)
 inline void Action_3__ctor_m125CB91021FA82B72B2797CE9217AF1F6E21C968 (Action_3_t040DD97225AE7940C382F481C47641A9726EC4C7* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Action_3_t040DD97225AE7940C382F481C47641A9726EC4C7*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mE0A10B75B6E8DF3E6E3CC9ACFE3A9103193C512A_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mFC076EF2A48CF6C01932E82D2F23489658D5D9B4_gshared)((Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Action`3<System.Byte[],System.Int32,System.Guid>::.ctor(System.Object,System.IntPtr)
 inline void Action_3__ctor_m077D737FBC1185FAB72DB6A51E508CEB33456200 (Action_3_t2C1E9C3208FF733CF93194827BC5A316F5728ABE* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Action_3_t2C1E9C3208FF733CF93194827BC5A316F5728ABE*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_m581E023C01EA8A3E011745C200982522D7788B2E_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_3__ctor_mFC076EF2A48CF6C01932E82D2F23489658D5D9B4_gshared)((Action_3_t838D6B6BB4BFFC6E8430C389747DB008A0B26146*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Collections.Generic.Dictionary`2<System.Type,System.Int32>::.ctor(System.Collections.Generic.IEqualityComparer`1<TKey>)
 inline void Dictionary_2__ctor_mA063F7CB6E3B3137242BABE30D2790AB7512F906 (Dictionary_2_t384D2A0FF42BF1302A3F513FC32DB105F1CD5455* __this, RuntimeObject* ___comparer0, const RuntimeMethod* method)
 {
-	((  void (*) (Dictionary_2_t384D2A0FF42BF1302A3F513FC32DB105F1CD5455*, RuntimeObject*, const RuntimeMethod*))Dictionary_2__ctor_m89AC42CD88BC0ED965D36B7028EF3DE23D290E1D_gshared)(__this, ___comparer0, method);
+	((  void (*) (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*, RuntimeObject*, const RuntimeMethod*))Dictionary_2__ctor_m244D396B16E7F73DE815F4FFA6F35DD89B6ED7CB_gshared)((Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*)__this, (RuntimeObject*)___comparer0, method);
 }
 // System.Void System.Collections.Generic.Dictionary`2<System.Type,System.Action`2<Sirenix.Serialization.BinaryDataWriter,System.Object>>::.ctor(System.Collections.Generic.IEqualityComparer`1<TKey>)
 inline void Dictionary_2__ctor_mB7AA8EFA279F0EF69B3F2DFD7EF60FCC5D18E4FD (Dictionary_2_t412B79C7D0A68EA5B1CFEB485D78176A63FBCFBA* __this, RuntimeObject* ___comparer0, const RuntimeMethod* method)
 {
-	((  void (*) (Dictionary_2_t412B79C7D0A68EA5B1CFEB485D78176A63FBCFBA*, RuntimeObject*, const RuntimeMethod*))Dictionary_2__ctor_mB2760A703784902BE10E873BC760166EC9693D63_gshared)(__this, ___comparer0, method);
+	((  void (*) (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*, RuntimeObject*, const RuntimeMethod*))Dictionary_2__ctor_m244D396B16E7F73DE815F4FFA6F35DD89B6ED7CB_gshared)((Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*)__this, (RuntimeObject*)___comparer0, method);
 }
 // System.Void System.Action`2<Sirenix.Serialization.BinaryDataWriter,System.Object>::.ctor(System.Object,System.IntPtr)
 inline void Action_2__ctor_mACED37CD4416A6BDFA8CB3D4E1A6F160B8150280 (Action_2_t7626AB8067854FD1A976A8875B26AF60E162E6AF* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Action_2_t7626AB8067854FD1A976A8875B26AF60E162E6AF*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_2__ctor_m6A0E7FE9DF9AE6C4BEE58611CB55F64FC3D79052_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Action_2_t1D42C7D8DCD2DEB7C556FB3783F0EDAFF694E5E8*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_2__ctor_m8E9B7F6EE50FEF26FF7537F554B4F5E434F70550_gshared)((Action_2_t1D42C7D8DCD2DEB7C556FB3783F0EDAFF694E5E8*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Collections.Generic.Dictionary`2<System.Type,System.Action`2<Sirenix.Serialization.BinaryDataWriter,System.Object>>::Add(TKey,TValue)
 inline void Dictionary_2_Add_mC0B05682C816CC8CB6C1B08C88C95DD4AABB5B67 (Dictionary_2_t412B79C7D0A68EA5B1CFEB485D78176A63FBCFBA* __this, Type_t* ___key0, Action_2_t7626AB8067854FD1A976A8875B26AF60E162E6AF* ___value1, const RuntimeMethod* method)
 {
-	((  void (*) (Dictionary_2_t412B79C7D0A68EA5B1CFEB485D78176A63FBCFBA*, Type_t*, Action_2_t7626AB8067854FD1A976A8875B26AF60E162E6AF*, const RuntimeMethod*))Dictionary_2_Add_m93FFFABE8FCE7FA9793F0915E2A8842C7CD0C0C1_gshared)(__this, ___key0, ___value1, method);
+	((  void (*) (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny, const RuntimeMethod*))Dictionary_2_Add_m54D479280472DEA042DB3933AF547E666B017333_gshared)((Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*)__this, (Il2CppFullySharedGenericAny)___key0, (Il2CppFullySharedGenericAny)___value1, method);
 }
 // System.Void Sirenix.Serialization.BinaryDataWriter/<>c::.ctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__ctor_m022524C9C2F6A2679EFCB2B4A1C53CC600C54296 (U3CU3Ec_t6186E767C11D28B9022C126D90FED362DEB678EE* __this, const RuntimeMethod* method) ;
@@ -3852,72 +3718,72 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void JsonDataReader__ctor_mE5E303F7502953B4AB
 // System.Void System.Func`1<System.Char>::.ctor(System.Object,System.IntPtr)
 inline void Func_1__ctor_m64666B7C79DD37423166867D6AC3A2487EB91E13 (Func_1_tE206E9F9B41CFFF0572F2C4B0387B4E70C161ACC* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_1_tE206E9F9B41CFFF0572F2C4B0387B4E70C161ACC*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_m64666B7C79DD37423166867D6AC3A2487EB91E13_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mC73A4FCEBBAB90CB7B7AB16321F3F98FBBF12596_gshared)((Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`1<System.SByte>::.ctor(System.Object,System.IntPtr)
 inline void Func_1__ctor_m9C775C8E4FE5ABE4F2B0B95A72F184DDA5C2CFEE (Func_1_t5800A995BE95C9F3897A7F86E964157A7D0B10AC* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_1_t5800A995BE95C9F3897A7F86E964157A7D0B10AC*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_m9C775C8E4FE5ABE4F2B0B95A72F184DDA5C2CFEE_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mC73A4FCEBBAB90CB7B7AB16321F3F98FBBF12596_gshared)((Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`1<System.Int16>::.ctor(System.Object,System.IntPtr)
 inline void Func_1__ctor_m990FDA63F98319790D3131C95D8B44F9EC0D280C (Func_1_tEFE13D8B81B3DD3ECB817DA9CC397451AAF9881A* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_1_tEFE13D8B81B3DD3ECB817DA9CC397451AAF9881A*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_m990FDA63F98319790D3131C95D8B44F9EC0D280C_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mC73A4FCEBBAB90CB7B7AB16321F3F98FBBF12596_gshared)((Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`1<System.Int32>::.ctor(System.Object,System.IntPtr)
 inline void Func_1__ctor_m475512287B9508E6D4721B3022635FED517234D1 (Func_1_tC288CCB64EFD1F5FD49C3F8DE91FE62905E44BCD* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_1_tC288CCB64EFD1F5FD49C3F8DE91FE62905E44BCD*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_m475512287B9508E6D4721B3022635FED517234D1_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mC73A4FCEBBAB90CB7B7AB16321F3F98FBBF12596_gshared)((Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`1<System.Int64>::.ctor(System.Object,System.IntPtr)
 inline void Func_1__ctor_m8E73BFE6AD5362513E1302835EF279650B70333F (Func_1_t84FF2BA023F4FF598B3D124B60BB85D6F904FE1D* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_1_t84FF2BA023F4FF598B3D124B60BB85D6F904FE1D*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_m8E73BFE6AD5362513E1302835EF279650B70333F_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mC73A4FCEBBAB90CB7B7AB16321F3F98FBBF12596_gshared)((Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`1<System.Byte>::.ctor(System.Object,System.IntPtr)
 inline void Func_1__ctor_mE042A1BE679CC2AAF7894C7AB76FD6236643895E (Func_1_t0C3FDD735FCDC6B3F63DD37025A9B0CD52DA078C* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_1_t0C3FDD735FCDC6B3F63DD37025A9B0CD52DA078C*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mE042A1BE679CC2AAF7894C7AB76FD6236643895E_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mC73A4FCEBBAB90CB7B7AB16321F3F98FBBF12596_gshared)((Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`1<System.UInt16>::.ctor(System.Object,System.IntPtr)
 inline void Func_1__ctor_m8917D4A735B10A01469C15D7688BD48062E8BDD3 (Func_1_t01C271DAAA995A6BB3551CEE7211992D2014C54D* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_1_t01C271DAAA995A6BB3551CEE7211992D2014C54D*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_m8917D4A735B10A01469C15D7688BD48062E8BDD3_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mC73A4FCEBBAB90CB7B7AB16321F3F98FBBF12596_gshared)((Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`1<System.UInt32>::.ctor(System.Object,System.IntPtr)
 inline void Func_1__ctor_mA75D888F13C413523F1ECD54F44E8715CB1635C2 (Func_1_tF6541D6142ABBB0E6DD98A0B3A635B1F2002DC6D* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_1_tF6541D6142ABBB0E6DD98A0B3A635B1F2002DC6D*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mA75D888F13C413523F1ECD54F44E8715CB1635C2_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mC73A4FCEBBAB90CB7B7AB16321F3F98FBBF12596_gshared)((Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`1<System.UInt64>::.ctor(System.Object,System.IntPtr)
 inline void Func_1__ctor_mD968677C7C680B35882A8D3066A30972C423E0B4 (Func_1_t8FB054CAA84105278E81718602A899DC392659DC* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_1_t8FB054CAA84105278E81718602A899DC392659DC*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mD968677C7C680B35882A8D3066A30972C423E0B4_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mC73A4FCEBBAB90CB7B7AB16321F3F98FBBF12596_gshared)((Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`1<System.Decimal>::.ctor(System.Object,System.IntPtr)
 inline void Func_1__ctor_m4EA800E0563D5E2E04CA0F5DF857947309DFB951 (Func_1_tD93ED0F663FCE513F35D9AEFEABC8B4714731F33* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_1_tD93ED0F663FCE513F35D9AEFEABC8B4714731F33*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_m4EA800E0563D5E2E04CA0F5DF857947309DFB951_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mC73A4FCEBBAB90CB7B7AB16321F3F98FBBF12596_gshared)((Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`1<System.Boolean>::.ctor(System.Object,System.IntPtr)
 inline void Func_1__ctor_mDFFAE9C73346372438B5B04C4558AC42F1A3DA22 (Func_1_t2BE7F58348C9CC544A8973B3A9E55541DE43C457* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_1_t2BE7F58348C9CC544A8973B3A9E55541DE43C457*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mDFFAE9C73346372438B5B04C4558AC42F1A3DA22_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mC73A4FCEBBAB90CB7B7AB16321F3F98FBBF12596_gshared)((Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`1<System.Single>::.ctor(System.Object,System.IntPtr)
 inline void Func_1__ctor_m94E0C712F86101E026834DA318C3FFF46DE49C71 (Func_1_t11C3830580201E0A3A3A2C76523B7905EF40BCF7* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_1_t11C3830580201E0A3A3A2C76523B7905EF40BCF7*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_m94E0C712F86101E026834DA318C3FFF46DE49C71_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mC73A4FCEBBAB90CB7B7AB16321F3F98FBBF12596_gshared)((Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`1<System.Double>::.ctor(System.Object,System.IntPtr)
 inline void Func_1__ctor_mFD3B853B23577DD7757C6726EB1FB0EC97D25B31 (Func_1_t7748833627297E42C5F5E294D4EF6457E839B5D7* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_1_t7748833627297E42C5F5E294D4EF6457E839B5D7*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mFD3B853B23577DD7757C6726EB1FB0EC97D25B31_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mC73A4FCEBBAB90CB7B7AB16321F3F98FBBF12596_gshared)((Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*)__this, ___object0, ___method1, method);
 }
 // System.Void System.Func`1<System.Guid>::.ctor(System.Object,System.IntPtr)
 inline void Func_1__ctor_mF051C59A4536E246F8D503B6C2AFD4A633CF27E3 (Func_1_t795BA1461C14377291BD8B37CC2DF979C31BF318* __this, RuntimeObject* ___object0, intptr_t ___method1, const RuntimeMethod* method)
 {
-	((  void (*) (Func_1_t795BA1461C14377291BD8B37CC2DF979C31BF318*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mF051C59A4536E246F8D503B6C2AFD4A633CF27E3_gshared)(__this, ___object0, ___method1, method);
+	((  void (*) (Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*, RuntimeObject*, intptr_t, const RuntimeMethod*))Func_1__ctor_mC73A4FCEBBAB90CB7B7AB16321F3F98FBBF12596_gshared)((Func_1_tBB8824FA8746333BFFF3AB3CE4A41B58450AF431*)__this, ___object0, ___method1, method);
 }
 // System.IO.Stream Sirenix.Serialization.BaseDataReader::get_Stream()
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Stream_tF844051B786E8F7F4244DBD218D74E8617B9A2DE* BaseDataReader_get_Stream_mF16D1B7B725951734DD87363B28BC95C456D308E_inline (BaseDataReader_tC71D38CF580346A6574D20C6243FCC8B6C127032* __this, const RuntimeMethod* method) ;
@@ -3944,7 +3810,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* String_Substring_mB1D94F47935D22E13
 // System.Void System.Collections.Generic.Dictionary`2<System.Int32,System.Type>::set_Item(TKey,TValue)
 inline void Dictionary_2_set_Item_m65F29CEA004735FF271E6DBC6EE01C26E01799C7 (Dictionary_2_tBDD02A03073B49D98E514F9FDE894CE445376A36* __this, int32_t ___key0, Type_t* ___value1, const RuntimeMethod* method)
 {
-	((  void (*) (Dictionary_2_tBDD02A03073B49D98E514F9FDE894CE445376A36*, int32_t, Type_t*, const RuntimeMethod*))Dictionary_2_set_Item_m2888D71A14F2B8510102F24FEE90552E91B124C1_gshared)(__this, ___key0, ___value1, method);
+	((  void (*) (Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny, const RuntimeMethod*))Dictionary_2_set_Item_m4C6841170DD11AED683D2D71919F362A4CFF4A80_gshared)((Dictionary_2_t5C32AF17A5801FB3109E5B0E622BA8402A04E08E*)__this, (Il2CppFullySharedGenericAny)&___key0, (Il2CppFullySharedGenericAny)___value1, method);
 }
 // System.Boolean System.String::op_Inequality(System.String,System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool String_op_Inequality_m0FBE5AC4931D312E5B347BAA603755676E6DA2FE (String_t* ___a0, String_t* ___b1, const RuntimeMethod* method) ;
@@ -31295,17 +31161,22 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Stream_tF844051B786E8F7F4244DBD21
 		return L_0;
 	}
 }
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Nullable_1_get_HasValue_m734A0AE90EE3BDA701FBF3A60B4A485A0B1568A0_gshared_inline (Nullable_1_t03E990096DA2676FE760B9E8D2FA90FE1452F0B2* __this, const RuntimeMethod* method) 
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Nullable_1_get_HasValue_m14F273FB376DF00D727434CDCD28AB4EDCC14C3C_gshared_inline (Nullable_1_t71C4EA4E848DBD7A4A97704069FB951159A3A339* __this, const RuntimeMethod* method) 
 {
 	{
-		bool L_0 = (bool)__this->___hasValue_0;
+		bool L_0 = *(bool*)il2cpp_codegen_get_instance_field_data_pointer(__this, il2cpp_rgctx_field(il2cpp_rgctx_data(InitializedTypeInfo(method->klass)->rgctx_data, 1),0));
 		return L_0;
 	}
 }
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR uint8_t Nullable_1_GetValueOrDefault_m6AF3AF6DB9554746726B5BB6D718859A894BD12E_gshared_inline (Nullable_1_t03E990096DA2676FE760B9E8D2FA90FE1452F0B2* __this, const RuntimeMethod* method) 
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Nullable_1_GetValueOrDefault_mC057FBD944AF068B90EBDD0B496231A01B2A4228_gshared_inline (Nullable_1_t71C4EA4E848DBD7A4A97704069FB951159A3A339* __this, Il2CppFullySharedGenericStruct* il2cppRetVal, const RuntimeMethod* method) 
 {
+	// sizeof(T)
+	const uint32_t SizeOf_T_tF1352992D99D495C6F2BE3DC43F8A00BAD6B2EAA = il2cpp_codegen_sizeof(il2cpp_rgctx_data(InitializedTypeInfo(method->klass)->rgctx_data, 0));
+	// T
+	const Il2CppFullySharedGenericStruct L_0 = alloca(SizeOf_T_tF1352992D99D495C6F2BE3DC43F8A00BAD6B2EAA);
 	{
-		uint8_t L_0 = (uint8_t)__this->___value_1;
-		return L_0;
+		il2cpp_codegen_memcpy(L_0, il2cpp_codegen_get_instance_field_data_pointer(__this, il2cpp_rgctx_field(il2cpp_rgctx_data(InitializedTypeInfo(method->klass)->rgctx_data, 1),1)), SizeOf_T_tF1352992D99D495C6F2BE3DC43F8A00BAD6B2EAA);
+		il2cpp_codegen_memcpy(il2cppRetVal, L_0, SizeOf_T_tF1352992D99D495C6F2BE3DC43F8A00BAD6B2EAA);
+		return;
 	}
 }

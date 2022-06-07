@@ -22,6 +22,8 @@ struct Dictionary_2_tDC2DB168C23D3A6A612BE9A9492FD23181B44978;
 struct Func_3_tC721DF8CDD07ED66A4833A19A2ED2302608C906C;
 // System.Func`3<System.Int32,System.String,TMPro.TMP_SpriteAsset>
 struct Func_3_t6F6D9932638EA1A5A45303C6626C818C25D164E5;
+// System.Collections.Generic.List`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>
+struct List_1_tDBA89B0E21BAC58CFBD3C1F76E4668E3B562761A;
 // System.Collections.Generic.List`1<DG.Tweening.DOTweenTMPAnimator/CharTransform>
 struct List_1_t7B3F257CF0DCABDD3EED05DC186BFB27773D4FAD;
 // UnityEngine.UI.CoroutineTween.TweenRunner`1<UnityEngine.UI.CoroutineTween.ColorTween>
@@ -2002,17 +2004,19 @@ struct TMP_MeshInfoU5BU5D_t3549EA3B9F542558E0DB1EDFAB98C612FE4231D7  : public Ru
 };
 
 
-// T System.Collections.Generic.List`1<DG.Tweening.DOTweenTMPAnimator/CharTransform>::get_Item(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR CharTransform_t261A12D563F1399A48E5924D39CAB027B9023BE3 List_1_get_Item_m0A3C4C882B5485D93087C21AE1A2E08C83F48561_gshared (List_1_t7B3F257CF0DCABDD3EED05DC186BFB27773D4FAD* __this, int32_t ___index0, const RuntimeMethod* method) ;
-// System.Void System.Collections.Generic.List`1<DG.Tweening.DOTweenTMPAnimator/CharTransform>::set_Item(System.Int32,T)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void List_1_set_Item_m4BC0A9B1FE82B5B47923AB1E17B21783DE806964_gshared (List_1_t7B3F257CF0DCABDD3EED05DC186BFB27773D4FAD* __this, int32_t ___index0, CharTransform_t261A12D563F1399A48E5924D39CAB027B9023BE3 ___value1, const RuntimeMethod* method) ;
+// T System.Collections.Generic.List`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::get_Item(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void List_1_get_Item_m6E4BA37C1FB558E4A62AE4324212E45D09C5C937_gshared (List_1_tDBA89B0E21BAC58CFBD3C1F76E4668E3B562761A* __this, int32_t ___index0, Il2CppFullySharedGenericAny* il2cppRetVal, const RuntimeMethod* method) ;
+// System.Void System.Collections.Generic.List`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::set_Item(System.Int32,T)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void List_1_set_Item_m9A958091885CC5363CCFE9F0BC472EAFCB56C813_gshared (List_1_tDBA89B0E21BAC58CFBD3C1F76E4668E3B562761A* __this, int32_t ___index0, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny ___value1, const RuntimeMethod* method) ;
 
 // System.Void System.Object::.ctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2 (RuntimeObject* __this, const RuntimeMethod* method) ;
 // T System.Collections.Generic.List`1<DG.Tweening.DOTweenTMPAnimator/CharTransform>::get_Item(System.Int32)
 inline CharTransform_t261A12D563F1399A48E5924D39CAB027B9023BE3 List_1_get_Item_m0A3C4C882B5485D93087C21AE1A2E08C83F48561 (List_1_t7B3F257CF0DCABDD3EED05DC186BFB27773D4FAD* __this, int32_t ___index0, const RuntimeMethod* method)
 {
-	return ((  CharTransform_t261A12D563F1399A48E5924D39CAB027B9023BE3 (*) (List_1_t7B3F257CF0DCABDD3EED05DC186BFB27773D4FAD*, int32_t, const RuntimeMethod*))List_1_get_Item_m0A3C4C882B5485D93087C21AE1A2E08C83F48561_gshared)(__this, ___index0, method);
+	CharTransform_t261A12D563F1399A48E5924D39CAB027B9023BE3 il2cppRetVal;
+	((  void (*) (List_1_tDBA89B0E21BAC58CFBD3C1F76E4668E3B562761A*, int32_t, Il2CppFullySharedGenericAny*, const RuntimeMethod*))List_1_get_Item_m6E4BA37C1FB558E4A62AE4324212E45D09C5C937_gshared)((List_1_tDBA89B0E21BAC58CFBD3C1F76E4668E3B562761A*)__this, ___index0, (Il2CppFullySharedGenericAny*)&il2cppRetVal, method);
+	return il2cppRetVal;
 }
 // TMPro.TMP_Text DG.Tweening.DOTweenTMPAnimator::get_target()
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* DOTweenTMPAnimator_get_target_mED36C573645C76062A998A7D3BF56079350A6A25_inline (DOTweenTMPAnimator_tB3C23F563B8AC6BD594C93570D96802A3BC746D7* __this, const RuntimeMethod* method) ;
@@ -2021,7 +2025,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CharTransform_UpdateGeometry_m895F6B5D56
 // System.Void System.Collections.Generic.List`1<DG.Tweening.DOTweenTMPAnimator/CharTransform>::set_Item(System.Int32,T)
 inline void List_1_set_Item_m4BC0A9B1FE82B5B47923AB1E17B21783DE806964 (List_1_t7B3F257CF0DCABDD3EED05DC186BFB27773D4FAD* __this, int32_t ___index0, CharTransform_t261A12D563F1399A48E5924D39CAB027B9023BE3 ___value1, const RuntimeMethod* method)
 {
-	((  void (*) (List_1_t7B3F257CF0DCABDD3EED05DC186BFB27773D4FAD*, int32_t, CharTransform_t261A12D563F1399A48E5924D39CAB027B9023BE3, const RuntimeMethod*))List_1_set_Item_m4BC0A9B1FE82B5B47923AB1E17B21783DE806964_gshared)(__this, ___index0, ___value1, method);
+	((  void (*) (List_1_tDBA89B0E21BAC58CFBD3C1F76E4668E3B562761A*, int32_t, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny, const RuntimeMethod*))List_1_set_Item_m9A958091885CC5363CCFE9F0BC472EAFCB56C813_gshared)((List_1_tDBA89B0E21BAC58CFBD3C1F76E4668E3B562761A*)__this, ___index0, (Il2CppFullySharedGenericAny)&___value1, method);
 }
 // UnityEngine.Vector3 UnityEngine.Quaternion::get_eulerAngles()
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Quaternion_get_eulerAngles_m2DB5158B5C3A71FD60FC8A6EE43D3AAA1CFED122_inline (Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974* __this, const RuntimeMethod* method) ;

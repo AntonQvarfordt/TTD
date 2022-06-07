@@ -1700,7 +1700,6 @@ UnityEngine.VFX.VisualEffect::HasTexture
 UnityEngine.VFX.VisualEffect::HasUInt
 UnityEngine.VFX.VisualEffect::HasVector3
 UnityEngine.VFX.VisualEffect::HasVector4
-UnityEngine.VFX.VisualEffect::GetFloat
 UnityEngine.VFX.VisualEffect::SendEventFromScript
 UnityEngine.VFX.VisualEffect::SetBool
 UnityEngine.VFX.VisualEffect::SetFloat

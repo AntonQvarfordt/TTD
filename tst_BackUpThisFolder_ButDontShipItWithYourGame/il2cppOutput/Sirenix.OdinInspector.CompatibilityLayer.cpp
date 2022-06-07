@@ -31,8 +31,12 @@ struct Dictionary_2_t8BF76F08F2E28AE3B97CD39EBC7A0FE57398B1B0;
 struct MinimalBaseFormatter_1_t87F8D1C5819F8EA5BD3C5019051708F82EC26300;
 // Sirenix.Serialization.MinimalBaseFormatter`1<UnityEngine.Vector3Int>
 struct MinimalBaseFormatter_1_tC944D6D3C47A8F528C1BD2372B2BAA1C8A0FBAC0;
+// Sirenix.Serialization.MinimalBaseFormatter`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>
+struct MinimalBaseFormatter_1_tD91F3F7F7C6E09EF06239BE0B9BBE3E091B1E1E1;
 // Sirenix.Serialization.Serializer`1<System.Int32>
 struct Serializer_1_tB9533CFC0D3480AB1A3646A517BFB1110081BF07;
+// Sirenix.Serialization.Serializer`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>
+struct Serializer_1_t94CE14A27577317D3D2E89BBF5CFB81EC9E1492D;
 // Sirenix.Serialization.IDataReader
 struct IDataReader_t387D8EF56B60D4587344CF62EFED4C811EC91816;
 // Sirenix.Serialization.IDataWriter
@@ -224,14 +228,12 @@ struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915
 #endif
 
 
-// System.Void Sirenix.Serialization.Serializer`1<System.Int32>::WriteValue(T,Sirenix.Serialization.IDataWriter)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Serializer_1_WriteValue_m05D504C2E5F6FBA3FA6B32CEF11CFB45D8AE4E40_gshared (Serializer_1_tB9533CFC0D3480AB1A3646A517BFB1110081BF07* __this, int32_t ___value0, RuntimeObject* ___writer1, const RuntimeMethod* method) ;
-// System.Void Sirenix.Serialization.MinimalBaseFormatter`1<UnityEngine.Vector2Int>::.ctor()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MinimalBaseFormatter_1__ctor_mC51B22C45BF89C0055307A1199B6BDAC69B0B606_gshared (MinimalBaseFormatter_1_t87F8D1C5819F8EA5BD3C5019051708F82EC26300* __this, const RuntimeMethod* method) ;
-// Sirenix.Serialization.Serializer`1<T> Sirenix.Serialization.Serializer::Get<System.Int32>()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Serializer_1_tB9533CFC0D3480AB1A3646A517BFB1110081BF07* Serializer_Get_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m37CDAE0AF045B869F68D40C80B7F1B9E3239B69A_gshared (const RuntimeMethod* method) ;
-// System.Void Sirenix.Serialization.MinimalBaseFormatter`1<UnityEngine.Vector3Int>::.ctor()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MinimalBaseFormatter_1__ctor_m8C2D9FE25ECB5325D1AE51DE589E1438534C0A94_gshared (MinimalBaseFormatter_1_tC944D6D3C47A8F528C1BD2372B2BAA1C8A0FBAC0* __this, const RuntimeMethod* method) ;
+// System.Void Sirenix.Serialization.Serializer`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::WriteValue(T,Sirenix.Serialization.IDataWriter)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Serializer_1_WriteValue_m07BA5D4024FF7980DBC4E46C6CAA9F01EB324B20_gshared (Serializer_1_t94CE14A27577317D3D2E89BBF5CFB81EC9E1492D* __this, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny ___value0, RuntimeObject* ___writer1, const RuntimeMethod* method) ;
+// System.Void Sirenix.Serialization.MinimalBaseFormatter`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MinimalBaseFormatter_1__ctor_m0012B397062EF411803707ACAB1B287BD4D68CDD_gshared (MinimalBaseFormatter_1_tD91F3F7F7C6E09EF06239BE0B9BBE3E091B1E1E1* __this, const RuntimeMethod* method) ;
+// Sirenix.Serialization.Serializer`1<T> Sirenix.Serialization.Serializer::Get<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Serializer_1_t94CE14A27577317D3D2E89BBF5CFB81EC9E1492D* Serializer_Get_TisIl2CppFullySharedGenericAny_mF9070A840AF62D2ED2D1A3731F8AF6810FD72136_gshared (const RuntimeMethod* method) ;
 
 // System.Void UnityEngine.Vector2Int::set_x(System.Int32)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector2Int_set_x_m291ECF246536852F0B8EE049C4A3768E4999CDC8_inline (Vector2Int_t69B2886EBAB732D9B880565E18E7568F3DE0CE6A* __this, int32_t ___value0, const RuntimeMethod* method) ;
@@ -242,19 +244,20 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Vector2Int_get_x_mA2CACB1
 // System.Void Sirenix.Serialization.Serializer`1<System.Int32>::WriteValue(T,Sirenix.Serialization.IDataWriter)
 inline void Serializer_1_WriteValue_m05D504C2E5F6FBA3FA6B32CEF11CFB45D8AE4E40 (Serializer_1_tB9533CFC0D3480AB1A3646A517BFB1110081BF07* __this, int32_t ___value0, RuntimeObject* ___writer1, const RuntimeMethod* method)
 {
-	((  void (*) (Serializer_1_tB9533CFC0D3480AB1A3646A517BFB1110081BF07*, int32_t, RuntimeObject*, const RuntimeMethod*))Serializer_1_WriteValue_m05D504C2E5F6FBA3FA6B32CEF11CFB45D8AE4E40_gshared)(__this, ___value0, ___writer1, method);
+	((  void (*) (Serializer_1_t94CE14A27577317D3D2E89BBF5CFB81EC9E1492D*, /*Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType*/Il2CppFullySharedGenericAny, RuntimeObject*, const RuntimeMethod*))Serializer_1_WriteValue_m07BA5D4024FF7980DBC4E46C6CAA9F01EB324B20_gshared)((Serializer_1_t94CE14A27577317D3D2E89BBF5CFB81EC9E1492D*)__this, (Il2CppFullySharedGenericAny)&___value0, ___writer1, method);
 }
 // System.Int32 UnityEngine.Vector2Int::get_y()
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Vector2Int_get_y_m48454163ECF0B463FB5A16A0C4FC4B14DB0768B3_inline (Vector2Int_t69B2886EBAB732D9B880565E18E7568F3DE0CE6A* __this, const RuntimeMethod* method) ;
 // System.Void Sirenix.Serialization.MinimalBaseFormatter`1<UnityEngine.Vector2Int>::.ctor()
 inline void MinimalBaseFormatter_1__ctor_mC51B22C45BF89C0055307A1199B6BDAC69B0B606 (MinimalBaseFormatter_1_t87F8D1C5819F8EA5BD3C5019051708F82EC26300* __this, const RuntimeMethod* method)
 {
-	((  void (*) (MinimalBaseFormatter_1_t87F8D1C5819F8EA5BD3C5019051708F82EC26300*, const RuntimeMethod*))MinimalBaseFormatter_1__ctor_mC51B22C45BF89C0055307A1199B6BDAC69B0B606_gshared)(__this, method);
+	((  void (*) (MinimalBaseFormatter_1_tD91F3F7F7C6E09EF06239BE0B9BBE3E091B1E1E1*, const RuntimeMethod*))MinimalBaseFormatter_1__ctor_m0012B397062EF411803707ACAB1B287BD4D68CDD_gshared)((MinimalBaseFormatter_1_tD91F3F7F7C6E09EF06239BE0B9BBE3E091B1E1E1*)__this, method);
 }
 // Sirenix.Serialization.Serializer`1<T> Sirenix.Serialization.Serializer::Get<System.Int32>()
 inline Serializer_1_tB9533CFC0D3480AB1A3646A517BFB1110081BF07* Serializer_Get_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m37CDAE0AF045B869F68D40C80B7F1B9E3239B69A (const RuntimeMethod* method)
 {
-	return ((  Serializer_1_tB9533CFC0D3480AB1A3646A517BFB1110081BF07* (*) (const RuntimeMethod*))Serializer_Get_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m37CDAE0AF045B869F68D40C80B7F1B9E3239B69A_gshared)(method);
+	Serializer_1_t94CE14A27577317D3D2E89BBF5CFB81EC9E1492D* il2cppRetVal = ((  Serializer_1_t94CE14A27577317D3D2E89BBF5CFB81EC9E1492D* (*) (const RuntimeMethod*))Serializer_Get_TisIl2CppFullySharedGenericAny_mF9070A840AF62D2ED2D1A3731F8AF6810FD72136_gshared)(method);
+	return (Serializer_1_tB9533CFC0D3480AB1A3646A517BFB1110081BF07*)il2cppRetVal;
 }
 // System.Void UnityEngine.Vector3Int::set_x(System.Int32)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3Int_set_x_m8745C5976D035EBBAC6F6191B5838D58631D8685_inline (Vector3Int_t65CB06F557251D18A37BD71F3655BA836A357376* __this, int32_t ___value0, const RuntimeMethod* method) ;
@@ -271,7 +274,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Vector3Int_get_z_m96E180F
 // System.Void Sirenix.Serialization.MinimalBaseFormatter`1<UnityEngine.Vector3Int>::.ctor()
 inline void MinimalBaseFormatter_1__ctor_m8C2D9FE25ECB5325D1AE51DE589E1438534C0A94 (MinimalBaseFormatter_1_tC944D6D3C47A8F528C1BD2372B2BAA1C8A0FBAC0* __this, const RuntimeMethod* method)
 {
-	((  void (*) (MinimalBaseFormatter_1_tC944D6D3C47A8F528C1BD2372B2BAA1C8A0FBAC0*, const RuntimeMethod*))MinimalBaseFormatter_1__ctor_m8C2D9FE25ECB5325D1AE51DE589E1438534C0A94_gshared)(__this, method);
+	((  void (*) (MinimalBaseFormatter_1_tD91F3F7F7C6E09EF06239BE0B9BBE3E091B1E1E1*, const RuntimeMethod*))MinimalBaseFormatter_1__ctor_m0012B397062EF411803707ACAB1B287BD4D68CDD_gshared)((MinimalBaseFormatter_1_tD91F3F7F7C6E09EF06239BE0B9BBE3E091B1E1E1*)__this, method);
 }
 #ifdef __clang__
 #pragma clang diagnostic push

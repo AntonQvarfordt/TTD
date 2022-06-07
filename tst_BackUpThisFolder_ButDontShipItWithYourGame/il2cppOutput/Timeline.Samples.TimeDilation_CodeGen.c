@@ -47,16 +47,16 @@ static Il2CppMethodPointer s_methodPointers[10] =
 };
 static const int32_t s_InvokerIndices[10] = 
 {
-	9146,
-	2245,
-	7336,
-	7336,
-	9146,
-	8967,
-	3407,
-	9146,
-	1925,
-	9146,
+	3601,
+	1499,
+	3156,
+	3156,
+	3601,
+	3501,
+	1997,
+	3601,
+	1233,
+	3601,
 };
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Timeline_Samples_TimeDilation_CodeGenModule;
 const Il2CppCodeGenModule g_Timeline_Samples_TimeDilation_CodeGenModule = 

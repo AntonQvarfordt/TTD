@@ -12,12 +12,12 @@
 
 
 
-// System.Collections.Generic.List`1<System.Object>
-struct List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D;
 // System.Collections.Generic.List`1<UnityEngine.RaycastHit2D>
 struct List_1_t2EF0515F9247C0F480F55BF3E296366A47CB0324;
 // System.Collections.Generic.List`1<UnityEngine.Rigidbody2D>
 struct List_1_tCD5F926D25FC8BFAF39E4BE6F879C1FA11501C76;
+// System.Collections.Generic.List`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>
+struct List_1_tDBA89B0E21BAC58CFBD3C1F76E4668E3B562761A;
 // UnityEngine.Collider2D[]
 struct Collider2DU5BU5D_t4771A44B23D278BC01AB6ED33A9A28E48DC0B034;
 // UnityEngine.ContactPoint2D[]
@@ -649,6 +649,16 @@ struct Joint2D_tFA088656425446CDA98555EC8A0E5FE25945F843  : public Behaviour_t01
 {
 };
 
+// UnityEngine.BoxCollider2D
+struct BoxCollider2D_tF860C7737FFB062CEC06577E0CD8364EEC1D4EDA  : public Collider2D_t6A17BA7734600EF3F26588E9ED903617D5B8EB52
+{
+};
+
+// UnityEngine.CircleCollider2D
+struct CircleCollider2D_t5D665D58EACA966EA4033BCF0EE91E198552E786  : public Collider2D_t6A17BA7734600EF3F26588E9ED903617D5B8EB52
+{
+};
+
 // UnityEngine.CompositeCollider2D
 struct CompositeCollider2D_t58511A535241FD7BDA84C6F3DF2C38220D4079D8  : public Collider2D_t6A17BA7734600EF3F26588E9ED903617D5B8EB52
 {
@@ -832,8 +842,8 @@ struct Vector2U5BU5D_tFEBBC94BCC6C9C88277BA04047D2B3FDB6ED7FDA  : public Runtime
 };
 
 
-// System.Void System.Collections.Generic.List`1<System.Object>::.ctor()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void List_1__ctor_m7F078BB342729BDF11327FD89D7872265328F690_gshared (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* __this, const RuntimeMethod* method) ;
+// System.Void System.Collections.Generic.List`1<Unity.IL2CPP.Metadata.__Il2CppFullySharedGenericType>::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void List_1__ctor_m0AFBAEA7EC427E32CC9CA267B1930DC5DF67A374_gshared (List_1_tDBA89B0E21BAC58CFBD3C1F76E4668E3B562761A* __this, const RuntimeMethod* method) ;
 
 // System.String UnityEngine.UnityString::Format(System.String,System.Object[])
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* UnityString_Format_m560566B98CA1AC19A6C2B424AE640F6E95D3B9B0 (String_t* ___fmt0, ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918* ___args1, const RuntimeMethod* method) ;
@@ -926,7 +936,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Collider2DU5BU5D_t4771A44B23D278BC01AB6ED33A9
 // System.Void System.Collections.Generic.List`1<UnityEngine.Rigidbody2D>::.ctor()
 inline void List_1__ctor_m18046D64FD3FA546A46227B43826992EE5D5F434 (List_1_tCD5F926D25FC8BFAF39E4BE6F879C1FA11501C76* __this, const RuntimeMethod* method)
 {
-	((  void (*) (List_1_tCD5F926D25FC8BFAF39E4BE6F879C1FA11501C76*, const RuntimeMethod*))List_1__ctor_m7F078BB342729BDF11327FD89D7872265328F690_gshared)(__this, method);
+	((  void (*) (List_1_tDBA89B0E21BAC58CFBD3C1F76E4668E3B562761A*, const RuntimeMethod*))List_1__ctor_m0AFBAEA7EC427E32CC9CA267B1930DC5DF67A374_gshared)((List_1_tDBA89B0E21BAC58CFBD3C1F76E4668E3B562761A*)__this, method);
 }
 // System.Void UnityEngine.ContactFilter2D::CheckConsistency_Injected(UnityEngine.ContactFilter2D&)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ContactFilter2D_CheckConsistency_Injected_mD1E46463DF2E3C1FA3E651478E62023365937B0C (ContactFilter2D_t54A8515C326BF7DA16E5DE97EA7D3CD9B2F77F14* ____unity_self0, const RuntimeMethod* method) ;
@@ -3838,6 +3848,22 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Collider2D_OverlapPoint_Injected_mCD54F3
 	bool icallRetVal = _il2cpp_icall_func(__this, ___point0);
 	return icallRetVal;
 }
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif

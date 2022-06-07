@@ -112,7 +112,6 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_TILEMAP
 --compilation-defines=ENABLE_TIMELINE
 --compilation-defines=ENABLE_INPUT_SYSTEM
---compilation-defines=ENABLE_LEGACY_INPUT_MANAGER
 --compilation-defines=UNITY_POST_PROCESSING_STACK_V2
 --compilation-defines=ODIN_INSPECTOR
 --compilation-defines=ODIN_INSPECTOR_3
