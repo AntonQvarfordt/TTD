@@ -26,9 +26,14 @@ public class AIAgent : Actor, IDamagable
     }
 
     [Button]
-    private void SetDestination (Vector2 position)
+    public void MoveDestination ()
     {
         _pathScript.destination = DestinationTransform.position;
+    }
+
+    public void StopMoveDestination()
+    {
+        _pathScript.destination = transform.position;
     }
 
     public void SetMoveSpeed (float speed)
