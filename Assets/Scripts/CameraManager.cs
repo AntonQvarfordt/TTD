@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Cinemachine;
 using System;
+using static Cinemachine.CinemachineBlenderSettings;
 
 [System.Serializable]
 public struct VCam
@@ -11,21 +12,33 @@ public struct VCam
     public CinemachineVirtualCamera VirtualCam;
 }
 
+[System.Serializable]
+public struct Blend
+{
+    public string Name;
+    public AnimationCurve Curve;
+    public float Duration;
+}
+
 public class CameraManager : MonoBehaviour
 {
     public VCam ActiveCam;
     public VCam[] Cams;
-    public CinemachineBlenderSettings BlendingSettings;
     private bool BlockCommands;
+    public Blend[] Blends;
+    public CinemachineBrain Brain;
 
-    public void FocusOnTarget(Transform target, float forTime, bool SnapToPosition = false)
+    public void ChangeCamera (VCam cam, float duration = 0f, bool SnapToPosition = false)
     {
-        var focusCam = GetVCam("FocusTarget");
-        focusCam.Value.VirtualCam.Follow = target;
-        SetActiveCam(focusCam.Value);
+        ActiveCam.VirtualCam.gameObject.SetActive(false);
+        cam.VirtualCam.gameObject.SetActive(true);
+        ActiveCam = cam;
     }
+    public void ReturnFromFocusCoroutine (VCam returnCamera)
+    {
 
-    private IEnumerator BlockAssignmentsCoroutine (float time, List<Action> callback = null)
+    }
+    private IEnumerator FocusOnTarget (float time, List<Action> callback = null)
     {
         yield return new WaitForSeconds(time);
 
@@ -34,9 +47,7 @@ public class CameraManager : MonoBehaviour
         {
             action.Invoke();
         }
-
     }
-
     private void BlockNewAssignments ()
     {
         if (BlockCommands)
@@ -44,14 +55,25 @@ public class CameraManager : MonoBehaviour
 
         BlockCommands = true;
     }
-
     private void UnblockNewAssignments()
     {
         BlockCommands = false;
     }
 
-    private VCam? GetVCam(string name)
+    private void SetActiveCam (VCam cam)
     {
+        if (BlockCommands)
+            return;
+
+        cam.VirtualCam.gameObject.SetActive(true);
+        ActiveCam.VirtualCam.gameObject.SetActive(false);
+        
+    }
+    public VCam? GetVCam(string name = "")
+    {
+        if (name == "") {
+            return Cams[0];
+        }
         foreach (VCam cam in Cams)
         {
             if (cam.Name == name)
@@ -67,11 +89,18 @@ public class CameraManager : MonoBehaviour
         return Cams[index];
     }
 
-    private void SetActiveCam (VCam cam)
+    public Blend GetBlend(string name)
     {
-        if (BlockCommands)
-            return;
+        var returnValue = Blends[0];
 
-        ActiveCam = cam;    
+        foreach (Blend blend in Blends)
+        {
+            if (blend.Name == name)
+            {
+                return blend;
+            }
+        }
+
+        return returnValue;
     }
 }

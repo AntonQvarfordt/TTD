@@ -30,13 +30,13 @@ namespace WhiteCat.Editor
 
         void OnEnable()
         {
-            SceneView.onSceneGUIDelegate += OnSceneGUI;
+            SceneView.duringSceneGui += OnSceneGUI;
         }
 
 
         void OnDisable()
         {
-            SceneView.onSceneGUIDelegate -= OnSceneGUI;
+            SceneView.duringSceneGui -= OnSceneGUI;
             Tools.hidden = false;
         }
 
